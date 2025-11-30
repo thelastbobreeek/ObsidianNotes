@@ -19,7 +19,7 @@
     },
     {
       "id": "obsidian-tasks-plugin:edit-task",
-      "icon": "lucide-stars",
+      "icon": "lucide-album",
       "name": "Создать задачу",
       "mode": "any"
     },
@@ -94,7 +94,7 @@
     "statusbar": [],
     "leftRibbon": []
   },
-  "spacing": "8",
+  "spacing": "9",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,

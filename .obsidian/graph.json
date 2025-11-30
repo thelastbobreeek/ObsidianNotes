@@ -5,20 +5,41 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"Гайд на Obsidian\"  ",
+      "query": "path:\"0. Files\"  ",
       "color": {
         "a": 1,
-        "rgb": 2041599
+        "rgb": 11542527
       }
     },
     {
-      "query": "path:Дневник  ",
+      "query": " path:\"1. Projects\"  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 52479
+      }
+    },
+    {
+      "query": "path:\"2. Areas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65331
+      }
+    },
+    {
+      "query": "path:\"4. Archive\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8421504
+      }
+    },
+    {
+      "query": "path:\"3. Resources\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
       }
     }
   ],
@@ -33,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.8410180368964391,
-  "close": true
+  "close": false
 }

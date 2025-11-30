@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"241b25a4f3f80a77","type":"text","text":"# 11. Ноябрь\n","x":120,"y":-120,"width":880,"height":680},
 		{"id":"db904b5d01c3fc53","type":"text","text":"# 12. Декабрь","x":1160,"y":560,"width":880,"height":680},
-		{"id":"363b075aba609fe1","type":"text","text":"# [[Краткие выводы за 2026.canvas|Краткие выводы за 2026]]","x":160,"y":1120,"width":505,"height":160}
+		{"id":"363b075aba609fe1","type":"text","text":"# [[2026 выводы.canvas|Краткие выводы за 2026]]","x":160,"y":1120,"width":505,"height":160}
 	],
 	"edges":[
 		{"id":"3173d8c80ec30e6d","fromNode":"241b25a4f3f80a77","fromSide":"right","toNode":"db904b5d01c3fc53","toSide":"left"},
