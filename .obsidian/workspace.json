@@ -11,15 +11,10 @@
             "id": "1920d26a0225b6b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/Дневник/Прожито жизни.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Прожито жизни"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -145,17 +140,17 @@
       "cmdr:Отображение вкладок": true
     }
   },
-  "active": "24001ef4ed6bf1cb",
+  "active": "1920d26a0225b6b6",
   "lastOpenFiles": [
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
+    "0. Files/2. Attachments/Pasted image 20251130184949.png",
+    "2. Areas/Дневник/Прожито жизни.md",
     "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
     "2. Areas/Дневник/Статистика/2025 выводы.canvas",
     "2. Areas/Дневник/Статистика/2026 выводы.canvas",
     "1. Projects/Ложиться вовремя.md",
-    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Приоритетные задачи (холст).canvas",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Регулярные задачи.md",
-    "2. Areas/Дневник/Прожито жизни.md",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-    "0. Files/2. Attachments/Pasted image 20251130184949.png",
     "0. Files/Templates/Ежедневная заметка.md",
     "0. Files/Templates",
     "0. Files/3. System Files",
