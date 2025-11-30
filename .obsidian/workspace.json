@@ -55,15 +55,17 @@
             "id": "5e6d4438675c433c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
+                "viewState": {
+                  "x": 620,
+                  "y": 700,
+                  "zoom": -0.9703935379146766
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-11-30"
+              "icon": "lucide-layout-dashboard",
+              "title": "Статистика за последние 30 дней"
             }
           }
         ],
@@ -193,12 +195,15 @@
   },
   "active": "5e6d4438675c433c",
   "lastOpenFiles": [
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
+    "0. Files/Templates/Ежедневная заметка.md",
+    "0. Files/0. Inbox/Скачать obsidian tiling.md",
     "1. Projects/Obsidian/PARA.md",
     "1. Projects/Obsidian/Obsidian.md",
     "1. Projects/Obsidian/Заметки.md",
     "1. Projects/Obsidian/Как работать с obsidian.md",
     "Tasks Plugin - Просмотреть и проверить свои статусы 2025-11-30 21-32-20.md",
-    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
     "0. Files/0. Inbox/Расписание.md",
     "3. Resources/2. Продуктивность/0. MOC -  Продуктивность.md",
     "2. Areas/Спорт/Цели на спорт в 2025.md",
@@ -207,7 +212,6 @@
     "3. Resources/3. Здоровье/1. Мозг/The most powerful weapon.md",
     "3. Resources/Литература/Цитаты",
     "0. Files/0. Inbox/Книга по программированию.md",
-    "0. Files/0. Inbox/Скачать obsidian tiling.md",
     "3. Resources/1. IT/GameDev/Unity.md",
     "3. Resources/1. IT/Программирование/База/Работа программы/IL2CPP.md",
     "2. Areas/Дневник/Прожито жизни.md",
@@ -219,8 +223,6 @@
     "3. Resources/1. IT/База/Информация.md",
     "3. Resources/1. IT/База/Пользователь.md",
     "3. Resources/1. IT/База/Конфиденциальность.md",
-    "3. Resources/3. Здоровье/Порог входа.md",
-    "3. Resources/1. IT/База/Открытый исходный код.md",
     "3. Resources/3. Здоровье/Сон",
     "3. Resources/1. IT/Программирование/База/Работа программы",
     "3. Resources/1. IT/Программирование/База/ООП",
@@ -232,7 +234,6 @@
     "3. Resources/1. IT/База",
     "3. Resources/1. IT/Программирование",
     "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
-    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
     "0. Files/2. Attachments/Pasted image 20251130184949.png",
     "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
     "Статистика за последние 30 дней.canvas",
