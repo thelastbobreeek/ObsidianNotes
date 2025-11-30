@@ -7,7 +7,7 @@
 		{"id":"b483cd77579d111f","type":"text","text":"Задачи отслеживаются, сканируя всё хранилище. \nДаже мой дохленький ПЭКА справляется. Но если вас что-то беспокоит, можете изменить анализ пути, добавив к каждому коду строку `From \"Дневник/Ежедневник и задачи\"`, например\n\nЕсли хачите сохранять в будущем статистику, то создавайте задачи исключительно в ежедневных заметках в [[Ежедневная заметка (с комментариями)#**Назначенные**|соответствующем блоке]]","x":440,"y":407,"width":600,"height":623},
 		{"id":"07607b7c35eb7205","type":"text","text":"# Low (низкий)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority low\n show tree\n```\n","x":-1550,"y":1080,"width":1280,"height":600,"color":"4"},
 		{"id":"34631cb28126ef10","type":"text","text":"# Highest (самый высокий)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority highest\n show tree\n```\n","x":-1550,"y":-240,"width":1280,"height":600,"color":"1"},
-		{"id":"e580630336fdabd8","x":-1550,"y":445,"width":550,"height":550,"type":"file","file":"_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png"}
+		{"id":"06552205b5aa62d2","x":-1550,"y":445,"width":550,"height":550,"type":"file","file":"0. Files/2. Attachments/Pasted image 20251130184949.png"}
 	],
 	"edges":[]
 }
