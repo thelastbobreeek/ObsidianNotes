@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"0. Files\"  ",
@@ -48,8 +48,8 @@
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.25432692307692,
   "lineSizeMultiplier": 1.41732068607069,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
