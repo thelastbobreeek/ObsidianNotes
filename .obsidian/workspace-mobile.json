@@ -11,15 +11,17 @@
             "id": "eb9b5ac6f12b824d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "2. Areas/Дневник/Статистика/2025 выводы.canvas",
+                "viewState": {
+                  "x": 560,
+                  "y": 472.8888888888889,
+                  "zoom": -1.289506617194985
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-11-30"
+              "icon": "lucide-layout-dashboard",
+              "title": "2025 выводы"
             }
           }
         ]
@@ -89,13 +91,15 @@
   },
   "active": "eb9b5ac6f12b824d",
   "lastOpenFiles": [
-    "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
-    "0. Files/2. Attachments/Pasted image 20251130184949.png",
-    "/2. Areas/Дневник/Ежедневник и задачи/Задачи/Приоритетные задачи (холст).canvas",
+    "/2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "/2. Areas/Дневник/Ежедневник и задачи/Задачи",
     "/2. Areas/Дневник/Ежедневник и задачи",
     "/2. Areas/Дневник",
     "/2. Areas",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+    "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
+    "0. Files/2. Attachments/Pasted image 20251130184949.png",
+    "/2. Areas/Дневник/Ежедневник и задачи/Задачи/Приоритетные задачи (холст).canvas",
     "/0. Files/2. Attachments/Pasted image 20251130184949.png",
     "/0. Files/2. Attachments",
     "0. Files/2. Attachments",
