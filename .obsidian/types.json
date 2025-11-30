@@ -25,7 +25,7 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "самоощущение": "number",
-    "date": "date",
+    "date": "text",
     "Unity": "number",
     "Уход ко сну": "text"
   }
