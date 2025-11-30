@@ -55,10 +55,15 @@
             "id": "5e6d4438675c433c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-30"
             }
           }
         ],
@@ -169,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "daily-notes:Сегодняшняя заметка": false,
       "cmdr:Создать задачу": false,
       "graph:Граф": false,
@@ -184,8 +188,6 @@
       "cmdr:Создать таблицу": true,
       "cmdr:Отображение вкладок": true,
       "cmdr:Шаблон задачи": true,
-      "random-note:Открыть случайную заметку": false,
-      "smart-random-note:Open Random Note from Search": false,
       "improved-random-note:Open improved random note": false
     }
   },
