@@ -30,17 +30,15 @@
             "id": "fcb44bf1a8f18c50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
-                "viewState": {
-                  "x": 620,
-                  "y": 700,
-                  "zoom": -1.4452642867107033
-                }
+                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Статистика за последние 30 дней"
+              "icon": "lucide-file",
+              "title": "2025-11-30"
             }
           }
         ],
@@ -170,10 +168,11 @@
   },
   "active": "fcb44bf1a8f18c50",
   "lastOpenFiles": [
+    "0. Files/0. Inbox/Untitled.md",
+    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Регулярные задачи.md",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
     "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
     "0. Files/Templates/Ежедневная заметка.md",
     "0. Files/0. Inbox/Скачать obsidian tiling.md",
