@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 20,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Cards (карточки вместо таблиц)",
+    "Centered H1 (центрирование большого оглавления)",
+    "Dashboard (главная страница, скрытие свойств и названия)",
+    "Lines (более жирные линии ---)",
+    "Stretch (принудительное растягивание в режиме просмотра)"
+  ],
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "theme": "obsidian"
+}

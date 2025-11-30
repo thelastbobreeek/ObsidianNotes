@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"34631cb28126ef10","type":"text","text":"# Highest (самый высокий)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority highest\n show tree\n```\n","x":-1560,"y":-240,"width":1280,"height":600,"color":"1"},
+		{"id":"bdf0f38f96d295d8","type":"text","text":"# High (высокий)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority high\n show tree\n```\n","x":-240,"y":-240,"width":1280,"height":600,"color":"2"},
+		{"id":"52f746ec92d552b9","type":"text","text":"# Medium (средний)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority medium\n show tree\n```\n","x":-920,"y":410,"width":1320,"height":620,"color":"3"},
+		{"id":"07607b7c35eb7205","type":"text","text":"# Low (низкий)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority low\n show tree\n```\n","x":-1560,"y":1080,"width":1280,"height":600,"color":"4"},
+		{"id":"6099159e7324bd11","type":"text","text":"# Lowest (самый низкий)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority lowest\n show tree\n```\n","x":-240,"y":1080,"width":1280,"height":600,"color":"5"},
+		{"id":"5ccc04c6404b7475","type":"text","text":"# Normal (без приоритета)\n```tasks\nnot done\n hide recurrence rule\n hide start date\n hide created date\n\n sort by tags\ntags do not include #Регулярно  \nno cancelled date\npriority is not low\npriority is not lowest\npriority is not medium\npriority is not high\npriority is not highest\nshow tree\n```\n\n\n\n\n\n\n\n\n\n\n\n%% \nЕсли прописать \nhide backlink\nто скроются гиперссылки\n%%","x":1080,"y":-240,"width":800,"height":1920,"color":"6"},
+		{"id":"1aebdfa24e4dd645","type":"text","text":"Сюда можете добавить мотивирующих картинок, если хачите, или сайт какой.","x":-1480,"y":602,"width":440,"height":236},
+		{"id":"b483cd77579d111f","type":"text","text":"Задачи отслеживаются, сканируя всё хранилище. \nДаже мой дохленький ПЭКА справляется. Но если вас что-то беспокоит, можете изменить анализ пути, добавив к каждому коду строку `From \"Дневник/Ежедневник и задачи\"`, например\n\nЕсли хачите сохранять в будущем статистику, то создавайте задачи исключительно в ежедневных заметках в [[Ежедневная заметка (с комментариями)#**Назначенные**|соответствующем блоке]]","x":440,"y":407,"width":600,"height":623}
+	],
+	"edges":[]
+}

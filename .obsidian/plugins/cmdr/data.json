@@ -1,0 +1,108 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "editor:insert-table",
+      "icon": "lucide-table",
+      "name": "Создать таблицу",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-0",
+      "icon": "lucide-stamp",
+      "name": "Шаблон задачи",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-tasks-plugin:edit-task",
+      "icon": "lucide-stars",
+      "name": "Создать задачу",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-hider:toggle-tab-containers",
+      "icon": "lucide-arrow-down-up",
+      "name": "Отображение вкладок",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Отобразить файл среди папок",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "Просмотр кода (Ctrl+Alt+W)",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-1",
+      "icon": "lucide-focus",
+      "name": "Режим фокуса",
+      "mode": "any"
+    }
+  ],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-tasks-plugin:toggle-done"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-tasks-plugin:toggle-done"
+        }
+      ],
+      "name": "Шаблон задачи",
+      "icon": "lucide-stamp",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "typewriter-mode:typewriter-mode-plugin-toggle"
+        },
+        {
+          "action": 1,
+          "delay": 250
+        },
+        {
+          "action": 0,
+          "commandId": "typewriter-mode:writing-focus-toggle"
+        }
+      ],
+      "name": "Режим фокуса",
+      "icon": "star",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": "8",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

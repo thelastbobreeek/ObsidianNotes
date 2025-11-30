@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "298bfc3e983b7343",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b901a1a02ce6f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1920d26a0225b6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Блокнот.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Блокнот"
+            }
+          },
+          {
+            "id": "b669366c20a7c02c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "c7a934c5de9c9a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Дневник/Ежедневник и задачи/Задачи/Жанровые задачи/Теги задач с кодом/Регулярные заметки.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Регулярные заметки"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95f4f7cb80259858",
+    "type": "split",
+    "children": [
+      {
+        "id": "9348bdd180151724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24001ef4ed6bf1cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2688d8286bb824d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dddfb10599ba13ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa34c988e2ea4e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Гайд на Obsidian от Доброжира/Плагины в Obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Плагины в Obsidian"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3954d708f2e46643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec66acf0244b6fc5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Гайд на Obsidian от Доброжира/Плагины в Obsidian.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -1.5,
+                  "nodeSizeMultiplier": 1.4497920997921,
+                  "lineSizeMultiplier": 2.08139293139293,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5694149046098155,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф Плагины в Obsidian"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "cmdr:Создать таблицу": true,
+      "daily-notes:Сегодняшняя заметка": false,
+      "cmdr:Шаблон задачи": false,
+      "cmdr:Создать задачу": false,
+      "cmdr:Отображение вкладок": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": true,
+      "command-palette:Открыть палитру команд": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": true,
+      "templates:Вставить шаблон": true,
+      "bases:Создать новую базу": true
+    }
+  },
+  "active": "24001ef4ed6bf1cb",
+  "lastOpenFiles": [
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+    "Статистика за последние 30 дней.canvas",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Жанровые задачи/Теги задач с кодом/Регулярные заметки.md",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Приоритетные задачи (холст).canvas",
+    "0. Files/3. System Files/Templates/Ежедневная заметка.md",
+    "2. Areas/Дневник/Статистика/Краткие выводы за 2025.canvas",
+    "2. Areas/Дневник/Статистика/Краткие выводы за 2026.canvas",
+    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-01-30.md",
+    "0. Files/3. System Files/Templates/Старая ежедневаня заметка.md",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Жанровые задачи/Теги задач с кодом/Ежедневная заметка (с комментариями).md",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Жанровые задачи/Теги задач с кодом/Obsidian (пример тега).md",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/Invalid date.md",
+    "2. Areas/Дневник/Статистика/Теги выполненных задач (подробнее).md",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Задачи для освоения Obsidian.md",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Жанровые задачи/Жанровые задачи (холст).canvas",
+    "2. Areas/Дневник/Сколько уже прожито.md",
+    "1. Projects/Ложиться вовремя.md",
+    "0. Files/3. System Files/Tamplates (шаблоны)/Новая ежедневная заметк.md",
+    "2. Areas/Учеба/Учеба - цели на 2025.md",
+    "3. Resources/CSharp/Ссылочные и значимые типы.md",
+    "Дневник/О жизни/Как жить.md",
+    "Дневник/О жизни/Мои желания и планы.md",
+    "Дневник/О жизни/Мои цели.md",
+    "Гайд на Obsidian от Доброжира/Рубрика «Вапроси».md",
+    "«ЧО, ГДЕ Я».md",
+    "Блокнот.md",
+    "Гайд на Obsidian от Доброжира/Горячие клавиши в Obsidian.md",
+    "Гайд на Obsidian от Доброжира/Плагины в Obsidian.md",
+    "Гайд на Obsidian от Доброжира/Вещи, которые нуждаются в комментировании/Ежедневная заметка (с комментариями).md",
+    "Гайд на Obsidian от Доброжира/Выжимка ролика/10. Уникальные плагины.md",
+    "Гайд на Obsidian от Доброжира/Выжимка ролика/5. Canvas (Холст).canvas",
+    "_system files (системные файлы)/Cashe (кэш)/image-2025.10.18 Короткое руководство на Spaced Repetition-1.png",
+    "_system files (системные файлы)/Cashe (кэш)/image-2025.10.09 Ежедневная заметка (с комментариями)-1.png",
+    "_system files (системные файлы)/Cashe (кэш)/image-2025.10.09 2. Базовые элементы работы-2.png",
+    "_system files (системные файлы)/Cashe (кэш)/image-2025.10.09 2. Базовые элементы работы-1.png",
+    "_system files (системные файлы)/Cashe (кэш)/image-2025.10.08 2. Базовые элементы работы-1.png",
+    "_system files (системные файлы)/Cashe (кэш)/1046031451418748950.jpg",
+    "_system files (системные файлы)/Cashe (кэш)/Как конвертировать карточку в заметку.png",
+    "_system files (системные файлы)/Cashe (кэш)/сегодняшняя заметка изображение.png",
+    "_system files (системные файлы)/Cashe (кэш)/image-2025.10.08 Синтаксис Spaced Repetition-1.png",
+    "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251006124210.png",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Папка для всех задач",
+    "_system files (системные файлы)/For plugins (для плагинов)/Настройки Toolbar",
+    "Гайд на Obsidian/Шаблоны на всякое (тут страшно, новеньким вход воспрещён)/Шаблон кода на статистику за последние 30 дней",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневник",
+    "Ежегодная статистика/2025/3 Июнь/Результаты за июнь 2025.canvas",
+    "Ежегодная статистика/2025/7 Октябрь/Результаты за октябрь 2025.canvas",
+    "Ежегодная статистика/2025/7 Октябрь",
+    "Ежегодная статистика/2025/6 Сентябрь/Результаты за сентябрь 2025.canvas",
+    "Ежегодная статистика/2025/6 Сентябрь",
+    "Ежегодная статистика/2025/5 Август",
+    "Ежегодная статистика/2025/4 Июль"
+  ]
+}

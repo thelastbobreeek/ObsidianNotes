@@ -1,0 +1,53 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "s-prWaABM95hjmw81Cm5N",
+      "name": "Purple",
+      "value": "#ff00bb"
+    },
+    {
+      "id": "fWOczowFi5op-BwqMhLJk",
+      "name": "Blue",
+      "value": "#009dff"
+    },
+    {
+      "id": "LHRLico31DHboBBbEoGk7",
+      "name": "Green",
+      "value": "#00ff7b"
+    },
+    {
+      "id": "1pFY8zWhT52Cb5CvGV-L0",
+      "name": "Grey",
+      "value": "#6b6b6b"
+    },
+    {
+      "id": "eVQljhJ-p4_v6D1vVhsDl",
+      "name": "Yellow",
+      "value": "#fbff00"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "0. Files",
+      "color": "s-prWaABM95hjmw81Cm5N"
+    },
+    {
+      "path": "1. Projects",
+      "color": "fWOczowFi5op-BwqMhLJk"
+    },
+    {
+      "path": "2. Areas",
+      "color": "LHRLico31DHboBBbEoGk7"
+    },
+    {
+      "path": "3. Resources",
+      "color": "eVQljhJ-p4_v6D1vVhsDl"
+    },
+    {
+      "path": "4. Archive",
+      "color": "1pFY8zWhT52Cb5CvGV-L0"
+    }
+  ]
+}
