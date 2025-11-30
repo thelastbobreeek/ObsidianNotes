@@ -27,6 +27,10 @@
     "самоощущение": "number",
     "date": "date",
     "Unity": "number",
-    "Уход ко сну": "text"
+    "Уход ко сну": "checkbox",
+    "Сон до 23:00": "checkbox",
+    "Доволен ли продуктивностью": "checkbox",
+    "Unity, часы": "number",
+    "Настроение": "number"
   }
 }
