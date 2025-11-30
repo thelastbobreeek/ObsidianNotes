@@ -55,17 +55,15 @@
             "id": "5e6d4438675c433c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
-                "viewState": {
-                  "x": 620,
-                  "y": 700,
-                  "zoom": -0.9703935379146766
-                }
+                "file": "0. Files/Templates/Ежедневная заметка.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Статистика за последние 30 дней"
+              "icon": "lucide-file",
+              "title": "Ежедневная заметка"
             }
           }
         ],
@@ -195,10 +193,11 @@
   },
   "active": "5e6d4438675c433c",
   "lastOpenFiles": [
-    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
-    "0. Files/Templates/Ежедневная заметка.md",
     "0. Files/0. Inbox/Скачать obsidian tiling.md",
+    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
+    "1. Projects/Ложиться вовремя.md",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+    "0. Files/Templates/Ежедневная заметка.md",
     "1. Projects/Obsidian/PARA.md",
     "1. Projects/Obsidian/Obsidian.md",
     "1. Projects/Obsidian/Заметки.md",
@@ -222,7 +221,6 @@
     "3. Resources/1. IT/Программирование/База/ООП/Инкапсуляция.md",
     "3. Resources/1. IT/База/Информация.md",
     "3. Resources/1. IT/База/Пользователь.md",
-    "3. Resources/1. IT/База/Конфиденциальность.md",
     "3. Resources/3. Здоровье/Сон",
     "3. Resources/1. IT/Программирование/База/Работа программы",
     "3. Resources/1. IT/Программирование/База/ООП",
