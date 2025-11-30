@@ -42,5 +42,14 @@
       ],
       "key": "R"
     }
-  ]
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": []
 }
