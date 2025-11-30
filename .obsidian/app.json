@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_system files (системные файлы)/Cashe (кэш)",
-  "promptDelete": false
+  "promptDelete": false,
+  "defaultViewMode": "preview"
 }

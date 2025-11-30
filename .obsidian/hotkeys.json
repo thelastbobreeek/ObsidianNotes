@@ -24,5 +24,15 @@
       ],
       "key": "C"
     }
-  ]
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close": []
 }

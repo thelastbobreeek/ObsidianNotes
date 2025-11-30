@@ -1,13 +1,10 @@
 {
 	"nodes":[
-		{"id":"86a26e41defd4186","type":"text","text":"# 10. Октябрь","x":-1040,"y":-320,"width":840,"height":680},
-		{"id":"241b25a4f3f80a77","type":"text","text":"# 11. Ноябрь","x":120,"y":-120,"width":880,"height":680},
+		{"id":"241b25a4f3f80a77","type":"text","text":"# 11. Ноябрь\n","x":120,"y":-120,"width":880,"height":680},
 		{"id":"db904b5d01c3fc53","type":"text","text":"# 12. Декабрь","x":1160,"y":560,"width":880,"height":680},
-		{"id":"d2d76dbbb8ef8511","type":"text","text":"# Зачем это?\nПод конец каждого месяца кратко резюмируйте для себя: что сделали и как себя чувствуете.","x":120,"y":-600,"width":928,"height":280},
-		{"id":"363b075aba609fe1","x":160,"y":1120,"width":505,"height":160,"type":"text","text":"# [[Краткие выводы за 2026.canvas|Краткие выводы за 2026]]"}
+		{"id":"363b075aba609fe1","type":"text","text":"# [[Краткие выводы за 2026.canvas|Краткие выводы за 2026]]","x":160,"y":1120,"width":505,"height":160}
 	],
 	"edges":[
-		{"id":"c66611090bf9c548","fromNode":"86a26e41defd4186","fromSide":"right","toNode":"241b25a4f3f80a77","toSide":"left"},
 		{"id":"3173d8c80ec30e6d","fromNode":"241b25a4f3f80a77","fromSide":"right","toNode":"db904b5d01c3fc53","toSide":"left"},
 		{"id":"34d13bcb83dba152","fromNode":"db904b5d01c3fc53","fromSide":"bottom","toNode":"363b075aba609fe1","toSide":"right"}
 	]
