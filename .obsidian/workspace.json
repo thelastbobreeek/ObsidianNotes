@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-                "mode": "preview",
+                "file": "3. Resources/1. IT/Программирование/База/ООП/ООП.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-30"
+              "title": "ООП"
             }
           }
         ]
@@ -143,11 +143,25 @@
       "obsidian-git:Open Git source control": true,
       "cmdr:Создать таблицу": true,
       "cmdr:Отображение вкладок": true,
-      "cmdr:Шаблон задачи": true
+      "cmdr:Шаблон задачи": true,
+      "random-note:Открыть случайную заметку": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "improved-random-note:Open improved random note": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "3. Resources/1. IT/База/Microsoft.md",
+    "3. Resources/1. IT/GameDev/Unity.md",
+    "3. Resources/1. IT/Программирование/CSharp/Mono.md",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+    "1. Projects/Obsidian/Как работать с obsidian.md",
+    "1. Projects/IsoTowerDefense/Проект Isometric Tower Defence.md",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
+    "0. Files/Templates/Ежедневная заметка.md",
+    "3. Resources/2. Продуктивность/0. MOC -  Продуктивность.md",
+    "3. Resources/3. Здоровье/Симпатическая и парасимпатическая нервная система.md",
+    "3. Resources/3. Здоровье/Сон",
     "3. Resources/1. IT/Программирование/База/ООП/Абстрактный класс.md",
     "3. Resources/1. IT/Программирование/База/Работа программы",
     "3. Resources/1. IT/База/Конфиденциальность.md",
@@ -162,17 +176,12 @@
     "3. Resources/1. IT/База",
     "3. Resources/1. IT/Программирование",
     "3. Resources/1. IT/GameDev",
-    "3. Resources/1. IT",
     "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
-    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Регулярные задачи.md",
     "2. Areas/Дневник/Прожито жизни.md",
     "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
     "0. Files/2. Attachments/Pasted image 20251130184949.png",
     "1. Projects/Ложиться вовремя.md",
-    "0. Files/Templates/Ежедневная заметка.md",
-    "0. Files/Templates/Ежедневная заметка.md",
     "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
     "Статистика за последние 30 дней.canvas",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-01-30.md",
@@ -186,12 +195,6 @@
     "0. Files/3. System Files/Tamplates (шаблоны)/Новая ежедневная заметк.md",
     "2. Areas/Учеба/Учеба - цели на 2025.md",
     "3. Resources/1. IT/Программирование/CSharp/Ссылочные и значимые типы.md",
-    "Дневник/О жизни/Как жить.md",
-    "Дневник/О жизни/Мои желания и планы.md",
-    "Дневник/О жизни/Мои цели.md",
-    "Гайд на Obsidian от Доброжира/Рубрика «Вапроси».md",
-    "«ЧО, ГДЕ Я».md",
-    "Блокнот.md",
     "Гайд на Obsidian от Доброжира/Выжимка ролика/5. Canvas (Холст).canvas",
     "_system files (системные файлы)/Cashe (кэш)/image-2025.10.18 Короткое руководство на Spaced Repetition-1.png",
     "_system files (системные файлы)/Cashe (кэш)/image-2025.10.09 Ежедневная заметка (с комментариями)-1.png",
