@@ -1,8 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "0. Files/2. Attachments",
   "promptDelete": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "0. Files/0. Inbox"
 }
