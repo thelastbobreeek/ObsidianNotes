@@ -30,15 +30,10 @@
             "id": "fcb44bf1a8f18c50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-01"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -88,13 +83,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 2025-12-01"
+              "title": "Структура"
             }
           },
           {
@@ -119,7 +113,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф 2025-12-01"
+              "title": "Граф"
             }
           }
         ]
@@ -177,12 +170,12 @@
   },
   "active": "fcb44bf1a8f18c50",
   "lastOpenFiles": [
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
     "0. Files/Templates/Ежедневная заметка.md",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
     "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
     "2. Areas/Дневник/Прожито жизни.md",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Моё расписание.md",
-    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "2. Areas/Дневник/Статистика/Выводы/2025 выводы.canvas",
     "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
