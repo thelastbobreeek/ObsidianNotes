@@ -12,33 +12,26 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
-                "viewState": {
-                  "x": 165,
-                  "y": 720,
-                  "zoom": -0.9611435293950286
-                }
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
-              "icon": "lucide-layout-dashboard",
-              "title": "Доска заданий"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           },
           {
-            "id": "fcb44bf1a8f18c50",
+            "id": "19f67962f7e24d9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
+                "file": "0. Files/0. Inbox/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-01"
+              "title": "Untitled"
             }
           }
         ],
@@ -88,13 +81,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
+                "file": "0. Files/0. Inbox/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 2025-12-01"
+              "title": "Структура Untitled"
             }
           },
           {
@@ -108,49 +101,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "3954d708f2e46643",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec66acf0244b6fc5",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -1.5,
-                  "nodeSizeMultiplier": 1.4497920997921,
-                  "lineSizeMultiplier": 2.08139293139293,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.5694149046098154,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Граф 2025-12-01"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +109,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Сегодняшняя заметка": false,
-      "cmdr:Создать задачу": false,
+      "cmdr:Создать задачу": true,
       "graph:Граф": false,
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": true,
@@ -175,8 +125,20 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "fcb44bf1a8f18c50",
+  "active": "19f67962f7e24d9c",
   "lastOpenFiles": [
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
+    "todoist-backup-2025121222151.json",
+    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
+    "2. Areas/Спорт/Цели на спорт в 2025.md",
+    "2. Areas/Спорт/Спорт.md",
+    "2. Areas/Дневник/Прожито жизни.md",
+    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
+    "2. Areas/Разработка игр/Геймдизайн - цели на 2025.md",
+    "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
+    "2. Areas/Дневник/Статистика/Выводы/2025 выводы.canvas",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Моё расписание.md",
+    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "3. Resources/5. Литература/Цитаты/\"Слепые\".md",
     "3. Resources/5. Литература/Цитаты",
     "3. Resources/5. Литература/Бассейн Дэвида Гоггинса.md",
@@ -185,15 +147,7 @@
     "3. Resources/4. Социология/Софт скиллы.md",
     "3. Resources/4. Социология/Как делать из софт-скиллов деньги?.md",
     "3. Resources/4. Социология",
-    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
     "0. Files/Templates/Ежедневная заметка.md",
-    "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
-    "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
-    "2. Areas/Дневник/Прожито жизни.md",
-    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Моё расписание.md",
-    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
-    "2. Areas/Дневник/Статистика/Выводы/2025 выводы.canvas",
-    "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
     "0. Files/0. Inbox/Untitled.md",
     "0. Files/0. Inbox/Скачать obsidian tiling.md",
     "1. Projects/Ложиться вовремя.md",
@@ -204,19 +158,14 @@
     "Tasks Plugin - Просмотреть и проверить свои статусы 2025-11-30 21-32-20.md",
     "0. Files/0. Inbox/Расписание.md",
     "3. Resources/2. Продуктивность/0. MOC -  Продуктивность.md",
-    "2. Areas/Спорт/Цели на спорт в 2025.md",
-    "2. Areas/Спорт/Спорт.md",
     "3. Resources/Литература/Бассейн Дэвида Гоггинса.md",
     "3. Resources/3. Здоровье/1. Мозг/The most powerful weapon.md",
     "3. Resources/Литература/Цитаты",
-    "0. Files/0. Inbox/Книга по программированию.md",
-    "3. Resources/1. IT/GameDev/Unity.md",
     "3. Resources/3. Здоровье/Сон",
     "3. Resources/1. IT/Программирование/База/Работа программы",
     "3. Resources/1. IT/Программирование/База/ООП",
     "3. Resources/1. IT/Программирование/База",
     "3. Resources/3. Здоровье",
-    "3. Resources/2. Продуктивность",
     "0. Files/2. Attachments/Pasted image 20251130184949.png",
     "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
     "Статистика за последние 30 дней.canvas",

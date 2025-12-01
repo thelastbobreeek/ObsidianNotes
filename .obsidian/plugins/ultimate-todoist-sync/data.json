@@ -1,0 +1,88 @@
+{
+  "initialized": true,
+  "apiInitialized": true,
+  "defaultProjectName": "Начало работы 👋",
+  "automaticSynchronizationInterval": 300,
+  "todoistTasksData": {
+    "projects": [
+      {
+        "id": "2363509485",
+        "parentId": null,
+        "order": 0,
+        "color": "charcoal",
+        "name": "Inbox",
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": true,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6fPwPh6pj7Wx59wH",
+        "viewStyle": "list",
+        "description": "",
+        "commentCount": 0
+      },
+      {
+        "id": "2363509570",
+        "parentId": null,
+        "order": 1,
+        "color": "charcoal",
+        "name": "Начало работы 👋",
+        "isShared": false,
+        "isFavorite": false,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6fPwQ2QMCJrFR9mW",
+        "viewStyle": "list",
+        "description": "",
+        "commentCount": 0
+      }
+    ],
+    "tasks": [],
+    "events": [
+      {
+        "event_date": "2025-12-01T14:04:58.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "name": "Начало работы 👋",
+          "note_count": 0
+        },
+        "extra_data_id": 30267215812,
+        "id": 30180866050,
+        "initiator_id": null,
+        "object_id": "2363509570",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "source": "mysql",
+        "v2_object_id": "6fPwQ2QMCJrFR9mW",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2025-12-01T14:03:17.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Todoist/25.11.22",
+          "name": "Inbox",
+          "note_count": 0
+        },
+        "extra_data_id": 30267186829,
+        "id": 30180837065,
+        "initiator_id": null,
+        "object_id": "2363509485",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "source": "mysql",
+        "v2_object_id": "6fPwPh6pj7Wx59wH",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      }
+    ]
+  },
+  "fileMetadata": {},
+  "enableFullVaultSync": false,
+  "statistics": {},
+  "debugMode": false,
+  "todoistAPIToken": "0bad23e9bc3ad03a1e3ab6a385bd905de0157168",
+  "defaultProjectId": "2363509570"
+}

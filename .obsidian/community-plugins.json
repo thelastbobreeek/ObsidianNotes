@@ -4,7 +4,6 @@
   "obsidian-charts",
   "cmdr",
   "omnisearch",
-  "obsidian-tasks-plugin",
   "obsidian-hider",
   "auto-card-link",
   "obsidian-excalidraw-plugin",
@@ -13,5 +12,6 @@
   "obsidian-file-color",
   "obsidian-git",
   "colored-tags",
-  "improved-random-note"
+  "improved-random-note",
+  "ultimate-todoist-sync"
 ]
