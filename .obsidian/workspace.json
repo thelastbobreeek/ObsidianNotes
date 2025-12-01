@@ -96,8 +96,19 @@
               "icon": "lucide-list",
               "title": "Структура Плагины в Obsidian"
             }
+          },
+          {
+            "id": "e93dc4d0707ed60a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3954d708f2e46643",
@@ -109,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Гайд на Obsidian от Доброжира/Плагины в Obsidian.md",
+                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,20 +143,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5694149046098155,
+                  "scale": 0.5694149046098154,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Плагины в Obsidian"
+              "title": "Граф 2025-12-01"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,14 +169,14 @@
       "canvas:Создать новый холст": true,
       "templates:Вставить шаблон": true,
       "bases:Создать новую базу": true,
-      "obsidian-git:Open Git source control": true,
+      "obsidian-git:Open Git source control": false,
       "cmdr:Создать таблицу": true,
       "cmdr:Отображение вкладок": true,
       "cmdr:Шаблон задачи": true,
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "fcb44bf1a8f18c50",
+  "active": "ec66acf0244b6fc5",
   "lastOpenFiles": [
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Моё расписание.md",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
