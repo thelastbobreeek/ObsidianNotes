@@ -20,22 +20,37 @@
             }
           },
           {
-            "id": "19f67962f7e24d9c",
+            "id": "bdfbfe253ffe3d41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Files/0. Inbox/Untitled.md",
+                "file": "0. Files/Templates/Ежедневная заметка.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ежедневная заметка"
+            }
+          },
+          {
+            "id": "9dec606419198fdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Files/0. Inbox/Задания.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Задания"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,13 +96,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Files/0. Inbox/Untitled.md",
+                "file": "0. Files/0. Inbox/Задания.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Untitled"
+              "title": "Структура Задания"
             }
           },
           {
@@ -125,8 +140,12 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "19f67962f7e24d9c",
+  "active": "9dec606419198fdb",
   "lastOpenFiles": [
+    "0. Files/Templates/Ежедневная заметка.md",
+    "0. Files/0. Inbox/Задания.md",
+    "0. Files/0. Inbox/Untitled.md",
+    "0. Files/0. Inbox/[Title.md",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
     "todoist-backup-2025121222151.json",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
@@ -147,8 +166,6 @@
     "3. Resources/4. Социология/Софт скиллы.md",
     "3. Resources/4. Социология/Как делать из софт-скиллов деньги?.md",
     "3. Resources/4. Социология",
-    "0. Files/Templates/Ежедневная заметка.md",
-    "0. Files/0. Inbox/Untitled.md",
     "0. Files/0. Inbox/Скачать obsidian tiling.md",
     "1. Projects/Ложиться вовремя.md",
     "1. Projects/Obsidian/PARA.md",
@@ -159,7 +176,6 @@
     "0. Files/0. Inbox/Расписание.md",
     "3. Resources/2. Продуктивность/0. MOC -  Продуктивность.md",
     "3. Resources/Литература/Бассейн Дэвида Гоггинса.md",
-    "3. Resources/3. Здоровье/1. Мозг/The most powerful weapon.md",
     "3. Resources/Литература/Цитаты",
     "3. Resources/3. Здоровье/Сон",
     "3. Resources/1. IT/Программирование/База/Работа программы",
