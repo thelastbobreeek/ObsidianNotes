@@ -30,10 +30,15 @@
             "id": "fcb44bf1a8f18c50",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-12-01"
             }
           }
         ],
@@ -83,12 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 2025-12-01"
             }
           },
           {
@@ -113,6 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +147,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Граф 2025-12-01"
             }
           }
         ]
@@ -170,6 +177,14 @@
   },
   "active": "fcb44bf1a8f18c50",
   "lastOpenFiles": [
+    "3. Resources/5. Литература/Цитаты/\"Слепые\".md",
+    "3. Resources/5. Литература/Цитаты",
+    "3. Resources/5. Литература/Бассейн Дэвида Гоггинса.md",
+    "3. Resources/5. Литература",
+    "3. Resources/4. Социология/Хард скиллы.md",
+    "3. Resources/4. Социология/Софт скиллы.md",
+    "3. Resources/4. Социология/Как делать из софт-скиллов деньги?.md",
+    "3. Resources/4. Социология",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
     "0. Files/Templates/Ежедневная заметка.md",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-11-30.md",
@@ -196,19 +211,12 @@
     "3. Resources/Литература/Цитаты",
     "0. Files/0. Inbox/Книга по программированию.md",
     "3. Resources/1. IT/GameDev/Unity.md",
-    "3. Resources/1. IT/Программирование/База/Работа программы/IL2CPP.md",
-    "3. Resources/3. Здоровье/0. MOC - Здоровье.md",
-    "3. Resources/3. Здоровье/Сон/Влияние стабильного подъема по утрам на биоритмы и здоровье.md",
-    "3. Resources/1. IT/Программирование/База/ООП/Инкапсуляция.md",
     "3. Resources/3. Здоровье/Сон",
     "3. Resources/1. IT/Программирование/База/Работа программы",
     "3. Resources/1. IT/Программирование/База/ООП",
     "3. Resources/1. IT/Программирование/База",
     "3. Resources/3. Здоровье",
     "3. Resources/2. Продуктивность",
-    "3. Resources/IT/Без названия",
-    "3. Resources/1. IT/База",
-    "3. Resources/1. IT/Программирование",
     "0. Files/2. Attachments/Pasted image 20251130184949.png",
     "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
     "Статистика за последние 30 дней.canvas",
