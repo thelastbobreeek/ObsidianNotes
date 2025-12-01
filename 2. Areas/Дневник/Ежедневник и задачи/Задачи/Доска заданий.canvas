@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"bdf0f38f96d295d8","type":"text","text":"# High (высокий)\n```tasks\n not done\ntags do not include #регулярно\n hide created date\n hide backlink\n hide priority\n priority high\n show tree\n```\n","x":-240,"y":-240,"width":1280,"height":600,"color":"2"},
-		{"id":"5ccc04c6404b7475","type":"text","text":"# На сегодня\n```tasks\nnot done\n hide recurrence rule\n hide start date\n hide created date\n due today\n sort by tags\ntags include #Регулярно  \nshow tree\n```\n\n\n\n\n\n\n\n\n\n\n\n%% \nЕсли прописать \nhide backlink\nто скроются гиперссылки\n%%","x":1080,"y":-240,"width":800,"height":1920,"color":"6"},
+		{"id":"5ccc04c6404b7475","type":"text","text":"# На сегодня\n```tasks\nnot done\n hide recurrence rule\n hide start date\n hide created date\n due today\n sort by tags\nshow tree\n```\n\n\n\n\n\n\n\n\n\n\n\n%% \nЕсли прописать \nhide backlink\nто скроются гиперссылки\n%%","x":1080,"y":-240,"width":800,"height":1920,"color":"6"},
 		{"id":"07607b7c35eb7205","type":"text","text":"# Low (низкий)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority low\n show tree\n```\n","x":-1550,"y":1080,"width":1280,"height":600,"color":"4"},
 		{"id":"06552205b5aa62d2","type":"file","file":"0. Files/2. Attachments/Pasted image 20251130184949.png","x":-1550,"y":445,"width":550,"height":550},
 		{"id":"52f746ec92d552b9","type":"text","text":"# Medium (средний)\n```tasks\n not done\n hide created date\n hide backlink\n hide priority\n priority medium\n show tree\n```\n","x":-920,"y":445,"width":1320,"height":550,"color":"3"},
