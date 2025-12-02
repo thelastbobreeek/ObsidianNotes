@@ -21,22 +21,130 @@
         "commentCount": 0
       },
       {
-        "id": "2363509570",
+        "id": "2363552759",
         "parentId": null,
-        "order": 1,
-        "color": "charcoal",
-        "name": "Начало работы 👋",
+        "order": 2,
+        "color": "green",
+        "name": "Повседневная жизнь",
         "isShared": false,
-        "isFavorite": false,
+        "isFavorite": true,
         "isInboxProject": false,
         "isTeamInbox": false,
-        "url": "https://app.todoist.com/app/project/6fPwQ2QMCJrFR9mW",
+        "url": "https://app.todoist.com/app/project/6fQ6Q4RcrRMr478R",
+        "viewStyle": "list",
+        "description": "",
+        "commentCount": 0
+      },
+      {
+        "id": "2363552834",
+        "parentId": null,
+        "order": 3,
+        "color": "yellow",
+        "name": "Чтение",
+        "isShared": false,
+        "isFavorite": true,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6fQ6QFgphrPXqcH9",
+        "viewStyle": "list",
+        "description": "",
+        "commentCount": 0
+      },
+      {
+        "id": "2363555388",
+        "parentId": null,
+        "order": 4,
+        "color": "red",
+        "name": "Тренировки",
+        "isShared": false,
+        "isFavorite": true,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6fQ6pRPpvGWhcWjF",
+        "viewStyle": "list",
+        "description": "",
+        "commentCount": 0
+      },
+      {
+        "id": "2363555511",
+        "parentId": null,
+        "order": 5,
+        "color": "blue",
+        "name": "Учеба",
+        "isShared": false,
+        "isFavorite": true,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6fQ6pv9VwcMMFW8c",
+        "viewStyle": "list",
+        "description": "",
+        "commentCount": 0
+      },
+      {
+        "id": "2363565351",
+        "parentId": null,
+        "order": 6,
+        "color": "violet",
+        "name": "Разработка игр",
+        "isShared": false,
+        "isFavorite": true,
+        "isInboxProject": false,
+        "isTeamInbox": false,
+        "url": "https://app.todoist.com/app/project/6fQ84wm5j6m7VXQq",
         "viewStyle": "list",
         "description": "",
         "commentCount": 0
       }
     ],
     "tasks": [
+      {
+        "id": "9787669513",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2363509570",
+        "sectionId": null,
+        "parentId": null,
+        "order": 1,
+        "content": "Поссать",
+        "description": "[0. Files/0. Inbox/Untitled.md](obsidian://open?vault=Life&file=0.%20Files/0.%20Inbox/Untitled.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "56482260",
+        "createdAt": "2025-12-01T19:33:49.720702Z",
+        "due": null,
+        "url": "https://app.todoist.com/app/task/9787669513",
+        "duration": null,
+        "deadline": null,
+        "path": "0. Files/0. Inbox/Untitled.md"
+      },
+      {
+        "id": "9787694317",
+        "assignerId": null,
+        "assigneeId": null,
+        "projectId": "2363509570",
+        "sectionId": null,
+        "parentId": null,
+        "order": 2,
+        "content": "Поспать",
+        "description": "[0. Files/0. Inbox/Untitled.md](obsidian://open?vault=Life&file=0.%20Files/0.%20Inbox/Untitled.md)",
+        "isCompleted": true,
+        "labels": [
+          "todoist"
+        ],
+        "priority": 1,
+        "commentCount": 0,
+        "creatorId": "56482260",
+        "createdAt": "2025-12-01T19:41:32.916104Z",
+        "due": null,
+        "url": "https://app.todoist.com/app/task/9787694317",
+        "duration": null,
+        "deadline": null,
+        "path": "0. Files/0. Inbox/Untitled.md"
+      },
       {
         "id": "9787718746",
         "assignerId": null,
@@ -230,32 +338,95 @@
         "v2_parent_project_id": "6fPwPh6pj7Wx59wH"
       },
       {
-        "event_date": "2025-12-01T19:53:16.000000Z",
-        "event_type": "updated",
+        "event_date": "2025-12-02T14:29:41.000000Z",
+        "event_type": "added",
         "extra_data": {
-          "client": "Mozilla/5.0",
-          "content": "сделать синхронизацию на телефоне почаще [ChatGPT](https://chatgpt.com/c/692d92f6-7d4c-832c-a4c0-5129c32ea1de)",
-          "last_content": "- [ ]",
+          "client": "Mozilla/5.0; Todoist/9389",
+          "name": "Разработка игр",
           "note_count": 0
         },
-        "extra_data_id": 30272065500,
-        "id": 30185715715,
+        "extra_data_id": 30282134770,
+        "id": 30195784942,
         "initiator_id": null,
-        "object_id": "9787729955",
-        "object_type": "item",
+        "object_id": "2363565351",
+        "object_type": "project",
         "parent_item_id": null,
-        "parent_project_id": "2363509485",
+        "parent_project_id": null,
         "source": "mysql",
-        "v2_object_id": "6fQ2CwGj6P6Qgv5H",
+        "v2_object_id": "6fQ84wm5j6m7VXQq",
         "v2_parent_item_id": null,
-        "v2_parent_project_id": "6fPwPh6pj7Wx59wH"
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2025-12-02T10:29:12.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Todoist/25.11.22",
+          "name": "Учеба",
+          "note_count": 0
+        },
+        "extra_data_id": 30279306712,
+        "id": 30192956921,
+        "initiator_id": null,
+        "object_id": "2363555511",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "source": "mysql",
+        "v2_object_id": "6fQ6pv9VwcMMFW8c",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2025-12-02T10:26:48.000000Z",
+        "event_type": "added",
+        "extra_data": {
+          "client": "Todoist/25.11.22",
+          "name": "Тренировки",
+          "note_count": 0
+        },
+        "extra_data_id": 30279282530,
+        "id": 30192932727,
+        "initiator_id": null,
+        "object_id": "2363555388",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "source": "mysql",
+        "v2_object_id": "6fQ6pRPpvGWhcWjF",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
+      },
+      {
+        "event_date": "2025-12-02T09:34:15.000000Z",
+        "event_type": "deleted",
+        "extra_data": {
+          "client": "Todoist/25.11.22",
+          "name": "",
+          "note_count": 0
+        },
+        "extra_data_id": 30278737570,
+        "id": 30192387776,
+        "initiator_id": null,
+        "object_id": "2363509570",
+        "object_type": "project",
+        "parent_item_id": null,
+        "parent_project_id": null,
+        "source": "mysql",
+        "v2_object_id": "6fPwQ2QMCJrFR9mW",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": null
       }
     ]
   },
   "fileMetadata": {
     "0. Files/0. Inbox/Untitled.md": {
-      "todoistTasks": [],
-      "todoistCount": 0
+      "todoistTasks": [
+        "9787669513",
+        "9787694317",
+        "9787702207"
+      ],
+      "todoistCount": 3
     },
     "0. Files/0. Inbox/Задания.md": {
       "todoistTasks": [
