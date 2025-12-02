@@ -23,17 +23,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
-                "mode": "source",
+                "file": "3. Resources/1. IT/Программирование/CSharp/Интерфейс в СSharp.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-01"
+              "title": "Интерфейс в СSharp"
+            }
+          },
+          {
+            "id": "be1bcd2aaf25d996",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": "0. Files/0. Inbox/Untitled.md",
+                "bFile": "0. Files/0. Inbox/Untitled.md",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,13 +118,18 @@
       "cmdr:Шаблон задачи": false,
       "cmdr:Создать задачу": false,
       "cmdr:Отображение вкладок": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "860c78306be0b05f",
+  "active": "be1bcd2aaf25d996",
   "lastOpenFiles": [
+    "3. Resources/1. IT/Программирование/База/ООП/Полиморфизм.md",
+    "0. Files/0. Inbox/Untitled.md",
+    "3. Resources/1. IT/Программирование/CSharp/Интерфейс в СSharp.md",
+    "3. Resources/1. IT/База/Информация.md",
+    "3. Resources/1. IT/Программирование/База/ООП/Инкапсуляция.md",
+    "3. Resources/1. IT/База/Framework.md",
+    "0. Files/0. Inbox/Задания.md",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "2. Areas/Дневник/Ежедневник и задачи/Ежедневные заметки/2025-12-01.md",
     "2. Areas/Дневник/Статистика/Статистика за последние 30 дней.canvas",
@@ -127,8 +146,6 @@
     "/0. Files/Templates/Ежедневная заметка.md",
     "/0. Files/Templates",
     "/0. Files",
-    "0. Files/0. Inbox/Untitled.md",
-    "3. Resources/1. IT/Программирование/База/ООП/Полиморфизм.md",
     "2. Areas/Дневник/Статистика/2025 выводы.canvas",
     "3. Resources/5. Литература/Цитаты/\"Слепые\".md",
     "3. Resources/5. Литература/Бассейн Дэвида Гоггинса.md",
@@ -147,10 +164,6 @@
     "3. Resources/3. Здоровье/Симпатическая и парасимпатическая нервная система.md",
     "3. Resources/3. Здоровье/0. MOC - Здоровье.md",
     "3. Resources/1. IT/Программирование/База/Работа программы/Intermediate Language.md",
-    "3. Resources/1. IT/Программирование/База/Работа программы/IL2CPP.md",
-    "3. Resources/1. IT/Программирование/База/ООП/ООП.md",
-    "3. Resources/1. IT/Программирование/База/ООП/Инкапсуляция.md",
-    "3. Resources/1. IT/Программирование/База/ООП/Наследование.md",
     "/2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
     "/2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "/2. Areas/Дневник/Статистика/Выводы/2025 выводы.canvas",

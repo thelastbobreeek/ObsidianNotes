@@ -38,78 +38,6 @@
     ],
     "tasks": [
       {
-        "id": "9787669513",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2363509570",
-        "sectionId": null,
-        "parentId": null,
-        "order": 1,
-        "content": "Поссать",
-        "description": "[0. Files/0. Inbox/Untitled.md](obsidian://open?vault=Life&file=0.%20Files/0.%20Inbox/Untitled.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "56482260",
-        "createdAt": "2025-12-01T19:33:49.720702Z",
-        "due": null,
-        "url": "https://app.todoist.com/app/task/9787669513",
-        "duration": null,
-        "deadline": null,
-        "path": "0. Files/0. Inbox/Untitled.md"
-      },
-      {
-        "id": "9787694317",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2363509570",
-        "sectionId": null,
-        "parentId": null,
-        "order": 2,
-        "content": "Поспать",
-        "description": "[0. Files/0. Inbox/Untitled.md](obsidian://open?vault=Life&file=0.%20Files/0.%20Inbox/Untitled.md)",
-        "isCompleted": true,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "56482260",
-        "createdAt": "2025-12-01T19:41:32.916104Z",
-        "due": null,
-        "url": "https://app.todoist.com/app/task/9787694317",
-        "duration": null,
-        "deadline": null,
-        "path": "0. Files/0. Inbox/Untitled.md"
-      },
-      {
-        "id": "9787702207",
-        "assignerId": null,
-        "assigneeId": null,
-        "projectId": "2363509485",
-        "sectionId": null,
-        "parentId": null,
-        "order": 1,
-        "content": "Входящий",
-        "description": "[0. Files/0. Inbox/Untitled.md](obsidian://open?vault=Life&file=0.%20Files/0.%20Inbox/Untitled.md)",
-        "isCompleted": false,
-        "labels": [
-          "todoist"
-        ],
-        "priority": 1,
-        "commentCount": 0,
-        "creatorId": "56482260",
-        "createdAt": "2025-12-01T19:44:07.170392Z",
-        "due": null,
-        "url": "https://app.todoist.com/app/task/9787702207",
-        "duration": null,
-        "deadline": null,
-        "path": "0. Files/0. Inbox/Untitled.md"
-      },
-      {
         "id": "9787718746",
         "assignerId": null,
         "assigneeId": null,
@@ -300,17 +228,34 @@
         "v2_object_id": "6fQ2CH8J8fm2PR5q",
         "v2_parent_item_id": null,
         "v2_parent_project_id": "6fPwPh6pj7Wx59wH"
+      },
+      {
+        "event_date": "2025-12-01T19:53:16.000000Z",
+        "event_type": "updated",
+        "extra_data": {
+          "client": "Mozilla/5.0",
+          "content": "сделать синхронизацию на телефоне почаще [ChatGPT](https://chatgpt.com/c/692d92f6-7d4c-832c-a4c0-5129c32ea1de)",
+          "last_content": "- [ ]",
+          "note_count": 0
+        },
+        "extra_data_id": 30272065500,
+        "id": 30185715715,
+        "initiator_id": null,
+        "object_id": "9787729955",
+        "object_type": "item",
+        "parent_item_id": null,
+        "parent_project_id": "2363509485",
+        "source": "mysql",
+        "v2_object_id": "6fQ2CwGj6P6Qgv5H",
+        "v2_parent_item_id": null,
+        "v2_parent_project_id": "6fPwPh6pj7Wx59wH"
       }
     ]
   },
   "fileMetadata": {
     "0. Files/0. Inbox/Untitled.md": {
-      "todoistTasks": [
-        "9787669513",
-        "9787694317",
-        "9787702207"
-      ],
-      "todoistCount": 3
+      "todoistTasks": [],
+      "todoistCount": 0
     },
     "0. Files/0. Inbox/Задания.md": {
       "todoistTasks": [
