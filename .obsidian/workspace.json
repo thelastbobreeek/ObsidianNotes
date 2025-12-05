@@ -27,9 +27,9 @@
               "state": {
                 "file": "3. Resources/1. IT/Unity Roadmap.canvas",
                 "viewState": {
-                  "x": 3439.426204627278,
-                  "y": 168.6165163962297,
-                  "zoom": -0.40000000000000013
+                  "x": 1430.5623871545533,
+                  "y": 2365.1722269782917,
+                  "zoom": -0.5999999999999999
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 200
   },
   "right": {
     "id": "2688d8286bb824d3",
