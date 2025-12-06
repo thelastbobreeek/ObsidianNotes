@@ -10,5 +10,7 @@
   ],
   "baseFontSizeAction": true,
   "showViewHeader": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter"
 }

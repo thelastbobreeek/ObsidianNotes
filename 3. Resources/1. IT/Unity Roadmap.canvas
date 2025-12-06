@@ -137,8 +137,8 @@
 		{"id":"17c523a1fd90cde0","type":"text","text":"Как ведут себя разные базовые шейдеры","x":4423,"y":2563,"width":297,"height":77,"color":"1"},
 		{"id":"a1eca7a21ea3a6b9","type":"text","text":"Lit","x":4388,"y":2806,"width":70,"height":50,"color":"1"},
 		{"id":"656a5ce3827cbc2d","type":"text","text":"UnLit","x":4668,"y":2806,"width":104,"height":50,"color":"1"},
-		{"id":"d84ef91bc5706942","x":4876,"y":2321,"width":264,"height":50,"type":"text","text":"Текстуры и спрайты"},
-		{"id":"ca8ef5bed50df0ee","x":4879,"y":2513,"width":258,"height":50,"type":"text","text":"Настройки текстур"}
+		{"id":"d84ef91bc5706942","type":"text","text":"Текстуры и спрайты","x":4876,"y":2321,"width":284,"height":50},
+		{"id":"ca8ef5bed50df0ee","type":"text","text":"Настройки текстур","x":4878,"y":2513,"width":281,"height":50}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
