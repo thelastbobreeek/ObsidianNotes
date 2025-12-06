@@ -40,15 +40,17 @@
             "id": "7c5af237fa3dc83c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1. Projects/Ложиться вовремя.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 3840,
+                  "y": 2588,
+                  "zoom": -0.5583819016178393
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ложиться вовремя"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
             }
           }
         ],
@@ -139,6 +141,7 @@
   },
   "active": "7c5af237fa3dc83c",
   "lastOpenFiles": [
+    "1. Projects/Ложиться вовремя.md",
     "0. Files/0. Inbox/Книга по программированию.md",
     "0. Files/0. Inbox/Скачать obsidian tiling.md",
     "0. Files/0. Inbox/Расписание.md",
@@ -168,7 +171,6 @@
     "3. Resources/4. Социология/Софт скиллы.md",
     "3. Resources/4. Социология/Как делать из софт-скиллов деньги?.md",
     "3. Resources/4. Социология",
-    "1. Projects/Ложиться вовремя.md",
     "1. Projects/Obsidian/PARA.md",
     "1. Projects/Obsidian/Obsidian.md",
     "1. Projects/Obsidian/Заметки.md",
