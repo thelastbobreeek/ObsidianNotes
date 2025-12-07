@@ -138,7 +138,8 @@
 		{"id":"a1eca7a21ea3a6b9","type":"text","text":"Lit","x":4388,"y":2806,"width":72,"height":50,"color":"1"},
 		{"id":"656a5ce3827cbc2d","type":"text","text":"UnLit","x":4668,"y":2806,"width":104,"height":50,"color":"1"},
 		{"id":"d84ef91bc5706942","type":"text","text":"Текстуры и спрайты","x":4876,"y":2321,"width":284,"height":50},
-		{"id":"ca8ef5bed50df0ee","type":"text","text":"Настройки текстур","x":4878,"y":2513,"width":281,"height":50}
+		{"id":"ca8ef5bed50df0ee","type":"text","text":"Настройки текстур","x":4878,"y":2513,"width":281,"height":50},
+		{"id":"86b005a32fdf68e3","x":5715,"y":2116,"width":250,"height":60,"type":"text","text":"fff"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
@@ -278,6 +279,7 @@
 		{"id":"be3d4496c3338b8a","fromNode":"17c523a1fd90cde0","fromSide":"bottom","toNode":"a1eca7a21ea3a6b9","toSide":"top"},
 		{"id":"3617b6d30bea7ca0","fromNode":"17c523a1fd90cde0","fromSide":"bottom","toNode":"656a5ce3827cbc2d","toSide":"top"},
 		{"id":"5da510b7fd097704","fromNode":"63485e09d0e6edcb","fromSide":"bottom","toNode":"d84ef91bc5706942","toSide":"top"},
-		{"id":"d6d436d2068e411e","fromNode":"d84ef91bc5706942","fromSide":"bottom","toNode":"ca8ef5bed50df0ee","toSide":"top"}
+		{"id":"d6d436d2068e411e","fromNode":"d84ef91bc5706942","fromSide":"bottom","toNode":"ca8ef5bed50df0ee","toSide":"top"},
+		{"id":"23188833d5daa0c2","fromNode":"63485e09d0e6edcb","fromSide":"right","toNode":"86b005a32fdf68e3","toSide":"left"}
 	]
 }
