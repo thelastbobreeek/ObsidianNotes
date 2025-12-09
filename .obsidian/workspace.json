@@ -42,13 +42,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
-                "mode": "preview",
+                "file": "3. Resources/1. IT/Программирование/База/ООП/Абстрактный класс.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Модификаторы доступа"
+              "title": "Абстрактный класс"
             }
           }
         ],
@@ -139,6 +139,8 @@
   },
   "active": "7c5af237fa3dc83c",
   "lastOpenFiles": [
+    "3. Resources/1. IT/GameDev/Unity.md",
+    "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
     "0. Files/0. Inbox/Расписание.md",
     "0. Files/0. Inbox/Книга по программированию.md",
     "1. Projects/Ложиться вовремя.md",
@@ -172,7 +174,6 @@
     "1. Projects/Obsidian/PARA.md",
     "1. Projects/Obsidian/Obsidian.md",
     "1. Projects/Obsidian/Заметки.md",
-    "1. Projects/Obsidian/Как работать с obsidian.md",
     "3. Resources/Литература/Цитаты",
     "3. Resources/3. Здоровье/Сон",
     "3. Resources/1. IT/Программирование/База/Работа программы",
