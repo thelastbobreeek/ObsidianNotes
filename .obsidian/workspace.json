@@ -59,27 +59,17 @@
               "state": {
                 "file": "3. Resources/1. IT/Unity Roadmap.canvas",
                 "viewState": {
-                  "x": 5852.643438807364,
-                  "y": 12197.039124371251,
+                  "x": 5542.045365586965,
+                  "y": 12192.084424391853,
                   "zoom": -0.38250170615484885
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Unity Roadmap"
             }
-          },
-          {
-            "id": "f3d30e48f5f3bcd1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +154,7 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "f3d30e48f5f3bcd1",
+  "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
     "3. Resources/1. IT/Unity Roadmap.canvas",
     "3. Resources/1. IT/Программирование/CSharp/Mono.md",

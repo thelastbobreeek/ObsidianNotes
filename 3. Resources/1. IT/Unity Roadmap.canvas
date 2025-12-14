@@ -376,8 +376,11 @@
 		{"id":"4e5f0256935a6954","x":5200,"y":12080,"width":385,"height":50,"type":"text","text":"Область применения делегатов"},
 		{"id":"721a239bd7ff384e","x":4881,"y":11799,"width":437,"height":50,"type":"text","text":"Как коллбэк(отложенное действие)"},
 		{"id":"8c76f8d7b106dd40","x":5360,"y":11799,"width":205,"height":50,"type":"text","text":"Как стратегия"},
-		{"id":"2c820213178698f5","x":5660,"y":11799,"width":340,"height":50,"type":"text","text":"Плотно используется с Linq"},
-		{"id":"577bc14c07bc8561","x":6016,"y":11801,"width":250,"height":60,"type":"text","text":"WaitUnt"}
+		{"id":"2c820213178698f5","x":5148,"y":11610,"width":340,"height":50,"type":"text","text":"Плотно используется с Linq"},
+		{"id":"577bc14c07bc8561","x":5585,"y":11610,"width":244,"height":50,"type":"text","text":"WaitUntil/WaitWhile"},
+		{"id":"98b725e010173e64","x":5829,"y":12080,"width":268,"height":50,"type":"text","text":"Анонимные методы"},
+		{"id":"6e3cf6f7f31182f2","x":5835,"y":11900,"width":257,"height":50,"type":"text","text":"Лямбда выражение"},
+		{"id":"2b6c6e15ff0bf0e3","x":5833,"y":11739,"width":427,"height":85,"type":"text","text":"Осторожно с подпиской лямбда выражений! Нельзя будет отписать! "}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
@@ -758,6 +761,9 @@
 		{"id":"8dcee0472bfc5fc3","fromNode":"4e5f0256935a6954","fromSide":"top","toNode":"721a239bd7ff384e","toSide":"bottom"},
 		{"id":"7d91713100c11c6c","fromNode":"4e5f0256935a6954","fromSide":"top","toNode":"8c76f8d7b106dd40","toSide":"bottom"},
 		{"id":"83d107963d809b2a","fromNode":"4e5f0256935a6954","fromSide":"top","toNode":"2c820213178698f5","toSide":"bottom"},
-		{"id":"1ef6350d2e3c19ff","fromNode":"4e5f0256935a6954","fromSide":"top","toNode":"577bc14c07bc8561","toSide":"bottom"}
+		{"id":"1ef6350d2e3c19ff","fromNode":"4e5f0256935a6954","fromSide":"top","toNode":"577bc14c07bc8561","toSide":"bottom"},
+		{"id":"628b5b94e82aca11","fromNode":"c32c97d4189ca5da","fromSide":"top","toNode":"98b725e010173e64","toSide":"bottom"},
+		{"id":"2f817b4df5f835c2","fromNode":"98b725e010173e64","fromSide":"top","toNode":"6e3cf6f7f31182f2","toSide":"bottom"},
+		{"id":"89a2ab4275b070c6","fromNode":"6e3cf6f7f31182f2","fromSide":"top","toNode":"2b6c6e15ff0bf0e3","toSide":"bottom"}
 	]
 }
