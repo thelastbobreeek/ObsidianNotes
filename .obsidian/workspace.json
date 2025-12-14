@@ -55,17 +55,15 @@
             "id": "4ea4ea623afb900f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 4807.49393684769,
-                  "y": 12804.827107159148,
-                  "zoom": -0.8001083063730018
-                }
+                "file": "3. Resources/1. IT/Программирование/CSharp/Mono.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Mono"
             }
           }
         ],
@@ -156,6 +154,7 @@
   },
   "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
+    "3. Resources/1. IT/Unity Roadmap.canvas",
     "0. Files/0. Inbox/Повороты в 2D.md",
     "0. Files/2. Attachments/Pasted image 20251209225321.png",
     "0. Files/2. Attachments",
@@ -165,7 +164,6 @@
     "0. Files/0. Inbox/Расписание.md",
     "0. Files/0. Inbox/Книга по программированию.md",
     "1. Projects/Ложиться вовремя.md",
-    "3. Resources/1. IT/Unity Roadmap.canvas",
     "0. Files/0. Inbox/Скачать obsidian tiling.md",
     "КАЧЕСТВЕННЫЕ_РЕАКЦИИ_РАСШИРЕННЫЕ.md",
     "0. Files/0. Inbox/Задания.md",
