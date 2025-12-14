@@ -380,7 +380,7 @@
 		{"id":"577bc14c07bc8561","x":5585,"y":11610,"width":244,"height":50,"type":"text","text":"WaitUntil/WaitWhile"},
 		{"id":"98b725e010173e64","x":5829,"y":12080,"width":268,"height":50,"type":"text","text":"Анонимные методы"},
 		{"id":"6e3cf6f7f31182f2","x":5835,"y":11900,"width":257,"height":50,"type":"text","text":"Лямбда выражение"},
-		{"id":"2b6c6e15ff0bf0e3","x":5833,"y":11739,"width":427,"height":85,"type":"text","text":"Осторожно с подпиской лямбда выражений! Нельзя будет отписать! "}
+		{"id":"2b6c6e15ff0bf0e3","x":5750,"y":11738,"width":427,"height":85,"type":"text","text":"Осторожно с подпиской лямбда выражений! Нельзя будет отписать! "}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
