@@ -380,7 +380,12 @@
 		{"id":"577bc14c07bc8561","x":5585,"y":11610,"width":244,"height":50,"type":"text","text":"WaitUntil/WaitWhile"},
 		{"id":"98b725e010173e64","x":5829,"y":12080,"width":268,"height":50,"type":"text","text":"Анонимные методы"},
 		{"id":"6e3cf6f7f31182f2","x":5835,"y":11900,"width":257,"height":50,"type":"text","text":"Лямбда выражение"},
-		{"id":"2b6c6e15ff0bf0e3","x":5750,"y":11738,"width":427,"height":85,"type":"text","text":"Осторожно с подпиской лямбда выражений! Нельзя будет отписать! "}
+		{"id":"2b6c6e15ff0bf0e3","x":5750,"y":11738,"width":427,"height":85,"type":"text","text":"Осторожно с подпиской лямбда выражений! Нельзя будет отписать! "},
+		{"id":"f3e178654e53bdf1","x":5880,"y":11568,"width":335,"height":92,"type":"text","text":"Если не понял, ты не понял анонимные методы"},
+		{"id":"a1ce2d244d067fcc","x":6460,"y":12080,"width":292,"height":50,"type":"text","text":"Встроенные делегаты"},
+		{"id":"7b82ecf88db25e00","x":6280,"y":11900,"width":113,"height":50,"type":"text","text":"Action"},
+		{"id":"87ff6614bfcc47b8","x":6550,"y":11900,"width":112,"height":50,"type":"text","text":"Func"},
+		{"id":"ff894eef0008a4ef","x":6732,"y":11899,"width":148,"height":50,"type":"text","text":"Predicate"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
@@ -764,6 +769,11 @@
 		{"id":"1ef6350d2e3c19ff","fromNode":"4e5f0256935a6954","fromSide":"top","toNode":"577bc14c07bc8561","toSide":"bottom"},
 		{"id":"628b5b94e82aca11","fromNode":"c32c97d4189ca5da","fromSide":"top","toNode":"98b725e010173e64","toSide":"bottom"},
 		{"id":"2f817b4df5f835c2","fromNode":"98b725e010173e64","fromSide":"top","toNode":"6e3cf6f7f31182f2","toSide":"bottom"},
-		{"id":"89a2ab4275b070c6","fromNode":"6e3cf6f7f31182f2","fromSide":"top","toNode":"2b6c6e15ff0bf0e3","toSide":"bottom"}
+		{"id":"89a2ab4275b070c6","fromNode":"6e3cf6f7f31182f2","fromSide":"top","toNode":"2b6c6e15ff0bf0e3","toSide":"bottom"},
+		{"id":"714900199de21fdf","fromNode":"2b6c6e15ff0bf0e3","fromSide":"top","toNode":"f3e178654e53bdf1","toSide":"bottom"},
+		{"id":"bc9ebb225c6c6b13","fromNode":"c32c97d4189ca5da","fromSide":"top","toNode":"a1ce2d244d067fcc","toSide":"bottom"},
+		{"id":"78073ca60176d84f","fromNode":"a1ce2d244d067fcc","fromSide":"top","toNode":"7b82ecf88db25e00","toSide":"bottom"},
+		{"id":"978babe31d829cb2","fromNode":"a1ce2d244d067fcc","fromSide":"top","toNode":"87ff6614bfcc47b8","toSide":"bottom"},
+		{"id":"60ff035141ce0ae3","fromNode":"a1ce2d244d067fcc","fromSide":"top","toNode":"ff894eef0008a4ef","toSide":"bottom"}
 	]
 }
