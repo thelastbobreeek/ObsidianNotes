@@ -55,19 +55,31 @@
             "id": "4ea4ea623afb900f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "3. Resources/1. IT/Программирование/CSharp/Mono.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 5852.643438807364,
+                  "y": 12197.039124371251,
+                  "zoom": -0.38250170615484885
+                }
               },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
+            }
+          },
+          {
+            "id": "f3d30e48f5f3bcd1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mono"
+              "title": "Новая вкладка"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,9 +164,10 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "4ea4ea623afb900f",
+  "active": "f3d30e48f5f3bcd1",
   "lastOpenFiles": [
     "3. Resources/1. IT/Unity Roadmap.canvas",
+    "3. Resources/1. IT/Программирование/CSharp/Mono.md",
     "0. Files/0. Inbox/Повороты в 2D.md",
     "0. Files/2. Attachments/Pasted image 20251209225321.png",
     "0. Files/2. Attachments",
@@ -188,7 +201,6 @@
     "3. Resources/5. Литература",
     "3. Resources/4. Социология/Хард скиллы.md",
     "3. Resources/4. Социология/Софт скиллы.md",
-    "3. Resources/4. Социология/Как делать из софт-скиллов деньги?.md",
     "3. Resources/4. Социология",
     "3. Resources/Литература/Цитаты",
     "3. Resources/3. Здоровье/Сон",
