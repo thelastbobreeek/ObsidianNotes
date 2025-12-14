@@ -366,7 +366,7 @@
 		{"id":"d8f46ab9650249c7","type":"text","text":"Не путать асинхронность с многопоточностью","x":1682,"y":12616,"width":275,"height":121,"color":"1"},
 		{"id":"d882965eec47a4db","type":"text","text":"Запуск корутин не из MonoBehaviour класса","x":2700,"y":12639,"width":294,"height":75,"color":"1"},
 		{"id":"70e8764449e49445","type":"text","text":"Альтернатива в будущем - UniTask","x":3180,"y":12623,"width":247,"height":78},
-		{"id":"c32c97d4189ca5da","x":4787,"y":12380,"width":250,"height":60,"type":"text","text":""}
+		{"id":"c32c97d4189ca5da","type":"text","text":"Делегаты","x":4787,"y":12380,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
