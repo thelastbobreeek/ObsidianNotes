@@ -55,17 +55,15 @@
             "id": "4ea4ea623afb900f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 6945.342118356076,
-                  "y": 12618.878813563375,
-                  "zoom": -0.982501706154849
-                }
+                "file": "1. Projects/IsoTowerDefense/Проект Isometric Tower Defence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Проект Isometric Tower Defence"
             }
           }
         ],
@@ -156,13 +154,13 @@
   },
   "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
+    "3. Resources/1. IT/GameDev/Unity.md",
     "3. Resources/1. IT/Unity Roadmap.canvas",
     "3. Resources/1. IT/Программирование/CSharp/Mono.md",
     "0. Files/0. Inbox/Повороты в 2D.md",
     "0. Files/2. Attachments/Pasted image 20251209225321.png",
     "0. Files/2. Attachments",
     "3. Resources/1. IT/Программирование/База/ООП/Абстрактный класс.md",
-    "3. Resources/1. IT/GameDev/Unity.md",
     "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
     "0. Files/0. Inbox/Расписание.md",
     "0. Files/0. Inbox/Книга по программированию.md",
