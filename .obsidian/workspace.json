@@ -59,9 +59,9 @@
               "state": {
                 "file": "3. Resources/1. IT/Unity Roadmap.canvas",
                 "viewState": {
-                  "x": 2819.9584297078973,
-                  "y": 701.6760723028328,
-                  "zoom": -0.7999999999999999
+                  "x": 7062.570443765073,
+                  "y": 15089.813815929403,
+                  "zoom": -0.19999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -156,8 +156,10 @@
   },
   "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
-    "0. Files/0. Inbox/Явное и неявное приведение типов.md",
+    "0. Files/0. Inbox/Унарные и бинарные операции.md",
     "3. Resources/1. IT/Unity Roadmap.canvas",
+    "Untitled.canvas",
+    "0. Files/0. Inbox/Явное и неявное приведение типов.md",
     "1. Projects/IsoTowerDefense/Проект Isometric Tower Defence.md",
     "3. Resources/1. IT/GameDev/Unity.md",
     "3. Resources/1. IT/Программирование/CSharp/Mono.md",
@@ -189,9 +191,7 @@
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "3. Resources/5. Литература/Цитаты/\"Слепые\".md",
     "3. Resources/5. Литература/Цитаты",
-    "3. Resources/5. Литература/Бассейн Дэвида Гоггинса.md",
     "3. Resources/5. Литература",
-    "3. Resources/4. Социология/Хард скиллы.md",
     "3. Resources/4. Социология",
     "3. Resources/Литература/Цитаты",
     "3. Resources/3. Здоровье/Сон",
@@ -210,7 +210,6 @@
     "_system files (системные файлы)/Cashe (кэш)/image-2025.10.08 2. Базовые элементы работы-1.png",
     "_system files (системные файлы)/Cashe (кэш)/1046031451418748950.jpg",
     "_system files (системные файлы)/Cashe (кэш)/Как конвертировать карточку в заметку.png",
-    "Ежегодная статистика/2025/3 Июнь/Результаты за июнь 2025.canvas",
-    "Ежегодная статистика/2025/7 Октябрь/Результаты за октябрь 2025.canvas"
+    "Ежегодная статистика/2025/3 Июнь/Результаты за июнь 2025.canvas"
   ]
 }
