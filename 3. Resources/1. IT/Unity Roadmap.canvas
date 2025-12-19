@@ -429,9 +429,9 @@
 		{"id":"4b57525ca5ea654c","x":4260,"y":14965,"width":381,"height":93,"type":"text","text":"Проблема структур и реализации на них интерфейсов"},
 		{"id":"302f1756c6d67300","x":3740,"y":15266,"width":438,"height":125,"type":"text","text":"Сделать универсальные списки/хранилища с использованием generics и object - частая задача"},
 		{"id":"837d5ab5808f54b9","x":3395,"y":15341,"width":171,"height":50,"type":"text","text":"Его методы"},
-		{"id":"d19d190f3862ec1f","x":6960,"y":15524,"width":281,"height":50,"type":"text","text":"Сериализация в Unity"},
-		{"id":"7e1f80ceb950c479","x":6616,"y":15244,"width":264,"height":76,"type":"text","text":"Как сериализовать немонобех классы"},
-		{"id":"3588fcfa1b6bcfb1","x":7149,"y":15259,"width":491,"height":50,"type":"text","text":"Разобраться что и почему сериализуется"}
+		{"id":"d19d190f3862ec1f","x":6473,"y":15515,"width":281,"height":50,"type":"text","text":"Сериализация в Unity"},
+		{"id":"3588fcfa1b6bcfb1","x":6662,"y":15250,"width":491,"height":50,"type":"text","text":"Разобраться что и почему сериализуется"},
+		{"id":"7e1f80ceb950c479","x":6153,"y":15237,"width":264,"height":76,"type":"text","text":"Как сериализовать немонобех классы"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
