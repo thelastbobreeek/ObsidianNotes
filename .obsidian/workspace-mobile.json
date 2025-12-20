@@ -65,19 +65,36 @@
             "id": "defab93f9bef6a8a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 7703.350987259865,
+                  "y": 18641.939281578416,
+                  "zoom": -0.5684729238147398
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
+            }
+          },
+          {
+            "id": "ff5b5de15e1f2457",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Files/0. Inbox/Унарные и бинарные операции.md",
-                "mode": "source",
+                "file": "0. Files/0. Inbox/Всему приходит конец.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Унарные и бинарные операции"
+              "title": "Всему приходит конец"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,19 +164,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "defab93f9bef6a8a",
+  "active": "ff5b5de15e1f2457",
   "lastOpenFiles": [
+    "3. Resources/1. IT/Unity Roadmap.canvas",
+    "0. Files/0. Inbox/Всему приходит конец.md",
+    "/3. Resources/1. IT/Unity Roadmap.canvas",
+    "/3. Resources/1. IT",
+    "/3. Resources",
+    "/0. Files/2. Attachments/Pasted image 20251220155952.png",
+    "0. Files/2. Attachments/Pasted image 20251220155952.png",
+    "/0. Files/2. Attachments",
+    "/0. Files/0. Inbox/Унарные и бинарные операции.md",
+    "/0. Files/0. Inbox",
+    "/0. Files",
+    "0. Files/0. Inbox/Унарные и бинарные операции.md",
     "0. Files/0. Inbox/C.md",
     "3. Resources/1. IT/Программирование/База/ООП/ООП.md",
     "3. Resources/1. IT/Программирование/База/Работа программы/IL2CPP.md",
     "Untitled.canvas",
     "3. Resources/1. IT/Программирование/CSharp/Интерфейс в СSharp.md",
-    "0. Files/0. Inbox/Унарные и бинарные операции.md",
     "0. Files/0. Inbox/Явное и неявное приведение типов.md",
-    "3. Resources/1. IT/Unity Roadmap.canvas",
-    "/3. Resources/1. IT/Unity Roadmap.canvas",
-    "/3. Resources/1. IT",
-    "/3. Resources",
     "3. Resources/1. IT/Программирование/База/ООП/Полиморфизм.md",
     "3. Resources/1. IT/База/Информация.md",
     "3. Resources/1. IT/Программирование/База/ООП/Инкапсуляция.md",
@@ -179,20 +203,14 @@
     "/2. Areas/Дневник",
     "/2. Areas",
     "/0. Files/Templates/Ежедневная заметка.md",
-    "/0. Files/Templates",
-    "/0. Files",
     "2. Areas/Дневник/Статистика/2025 выводы.canvas",
     "3. Resources/5. Литература/Цитаты/\"Слепые\".md",
     "3. Resources/5. Литература/Бассейн Дэвида Гоггинса.md",
-    "3. Resources/5. Литература/Цитаты",
     "3. Resources/2. Продуктивность/Интервальное повторение.md",
     "3. Resources/2. Продуктивность/0. MOC -  Продуктивность.md",
     "0. Files/0. Inbox/Расписание.md",
     "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
     "2. Areas/Дневник/Статистика/Выводы/2025 выводы.canvas",
-    "Tasks Plugin - Просмотреть и проверить свои статусы 2025-11-30 21-32-20.md",
-    "3. Resources/3. Здоровье/Сон/Влияние стабильного подъема по утрам на биоритмы и здоровье.md",
-    "3. Resources/3. Здоровье/Бей или беги.md",
     "/2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
     "/2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
