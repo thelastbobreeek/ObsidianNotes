@@ -16,7 +16,7 @@
 		{"id":"3c09ffc19680c0de","type":"text","text":"Явное","x":1958,"y":500,"width":125,"height":60},
 		{"id":"3edc006789533029","type":"text","text":"Неявное","x":2204,"y":498,"width":136,"height":64},
 		{"id":"e27f1a596414a0a9","type":"text","text":"  Базовые типы данных","x":1173,"y":281,"width":280,"height":60},
-		{"id":"83657e164a3ccaea","type":"text","text":"Унарные","x":2580,"y":530,"width":140,"height":50,"color":"1"},
+		{"id":"83657e164a3ccaea","type":"text","text":"Унарные","x":2580,"y":530,"width":140,"height":50},
 		{"id":"b385760fd2f6a338","type":"text","text":"Инкремент и декремент","x":2473,"y":710,"width":315,"height":50},
 		{"id":"807d648d43e7bc18","type":"text","text":"Сложения, вычитания, умножения тд","x":2860,"y":702,"width":440,"height":56},
 		{"id":"4fbc4f7cade95c8b","type":"text","text":"И(&&)","x":4420,"y":243,"width":120,"height":50},
@@ -384,7 +384,6 @@
 		{"id":"1a35cae9d2ce4c40","type":"text","text":"class/struct","x":8320,"y":11925,"width":200,"height":50,"color":"1"},
 		{"id":"8b15e86d21240a0a","type":"text","text":"  Несколько универсальных параметров","x":8920,"y":12160,"width":491,"height":50,"color":"1"},
 		{"id":"588da8b30f81d84c","type":"text","text":"Обобщенные методы","x":9520,"y":12160,"width":285,"height":50,"color":"1"},
-		{"id":"35664d5fce71602e","type":"text","text":"Парсинг ввода пользователя\nint.Parse(\"\"), float.Parse(\"\") и тд","x":3675,"y":-342,"width":380,"height":84,"color":"1"},
 		{"id":"a2f274121d070402","type":"text","text":"Условные выражения","x":3865,"y":90,"width":270,"height":50},
 		{"id":"c76a00e5f23d62c8","type":"text","text":"\\>","x":4075,"y":276,"width":50,"height":55},
 		{"id":"9e203bbb11848423","type":"text","text":"!=","x":3629,"y":278,"width":66,"height":50},
@@ -394,9 +393,8 @@
 		{"id":"c3ab3858bfc18d76","type":"text","text":"Условия","x":4345,"y":-105,"width":140,"height":50},
 		{"id":"1da63797437baaba","type":"text","text":"и тд","x":4251,"y":279,"width":89,"height":50},
 		{"id":"c09a32d3aa81fb25","type":"text","text":"Конкатенация(сложение строк)","x":2822,"y":-325,"width":386,"height":53,"color":"1"},
-		{"id":"23da9f125eb83128","type":"text","text":"Интерполяция строк","x":3289,"y":-325,"width":272,"height":50,"color":"1"},
 		{"id":"0fdaf33167b08bb5","type":"text","text":"тип bool","x":3412,"y":90,"width":149,"height":50},
-		{"id":"869b907f834d106d","type":"text","text":"Бинарные","x":2855,"y":531,"width":160,"height":64,"color":"1"},
+		{"id":"869b907f834d106d","type":"text","text":"Бинарные","x":2855,"y":531,"width":160,"height":64},
 		{"id":"14a1b75e7c431b5a","type":"text","text":"Операции","x":2695,"y":316,"width":160,"height":60},
 		{"id":"ca2a1a9c287ffaa2","type":"text","text":"Строки","x":3335,"y":-105,"width":140,"height":50},
 		{"id":"c0f6a49cacd562c1","type":"text","text":"Финальные штрихи по языку. Не глобальные, но улучшающие работу","x":-268,"y":15840,"width":360,"height":120},
@@ -555,7 +553,9 @@
 		{"id":"b297d16f567bbce3","x":6643,"y":22600,"width":93,"height":50,"type":"text","text":"ЯИ"},
 		{"id":"3098e60df2748d29","x":7440,"y":22380,"width":333,"height":50,"type":"text","text":"Игра выглядит не ужасно"},
 		{"id":"e6f4bac5b7040b46","x":7485,"y":22585,"width":243,"height":95,"type":"text","text":"Готовые ассеты для UI и графики"},
-		{"id":"81a2204b2332ca97","x":10160,"y":22095,"width":165,"height":50,"type":"text","text":"Резюме"}
+		{"id":"81a2204b2332ca97","x":10160,"y":22095,"width":165,"height":50,"type":"text","text":"Резюме"},
+		{"id":"23da9f125eb83128","type":"text","text":"Интерполяция строк","x":3269,"y":-325,"width":272,"height":50,"color":"1"},
+		{"id":"35664d5fce71602e","type":"text","text":"Парсинг ввода пользователя\nint.Parse(\"\"), float.Parse(\"\") и тд","x":3629,"y":-342,"width":380,"height":84,"color":"1"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
