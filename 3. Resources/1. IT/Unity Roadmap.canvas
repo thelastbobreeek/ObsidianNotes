@@ -476,8 +476,7 @@
 		{"id":"d5c4f45f35af7913","type":"text","text":"Какие примерно механики обычно бывают","x":9300,"y":17815,"width":334,"height":100},
 		{"id":"784e43890338b1cc","type":"text","text":"Поработать с несколькими сценами","x":6800,"y":18120,"width":432,"height":50},
 		{"id":"eb128b7a95feb03d","type":"text","text":"Новый опыт - новые проблемы","x":6820,"y":17890,"width":392,"height":50},
-		{"id":"f1608ee02c48dd7a","type":"text","text":"Передача данных между сценами","x":7197,"y":17600,"width":243,"height":86},
-		{"id":"599e2f8e4ea24ab3","type":"text","text":"Как выстроить работу всей игры","x":6679,"y":17629,"width":241,"height":91},
+		{"id":"f1608ee02c48dd7a","type":"text","text":"Передача данных между сценами","x":7197,"y":17600,"width":243,"height":75},
 		{"id":"244c57fe64739bd5","type":"text","text":"Организация UI","x":6904,"y":18734,"width":216,"height":50},
 		{"id":"0d83e6a0e7151c0e","type":"text","text":"Познакомиться с MV/MVx подходами","x":6884,"y":18981,"width":256,"height":79},
 		{"id":"3f42d99f27475c07","type":"text","text":"Посоздавать разные окошки","x":6456,"y":19220,"width":204,"height":80},
@@ -494,7 +493,14 @@
 		{"id":"6b37ca869421bd7c","x":7420,"y":19779,"width":171,"height":50,"type":"text","text":"VContainer"},
 		{"id":"c2a2e782263a5c70","x":8700,"y":19323,"width":364,"height":91,"type":"text","text":"Как собирать данные со всего проекта для сохранения"},
 		{"id":"18eaa3841c80acb9","x":8507,"y":19640,"width":387,"height":87,"type":"text","text":"Один класс с общими данными, через который все работает"},
-		{"id":"b32c6152b0c99b27","x":9106,"y":19634,"width":454,"height":93,"type":"text","text":"Собирать все сервисы  и сохранять данные с каждого сервиса по запросу"}
+		{"id":"b32c6152b0c99b27","x":9106,"y":19634,"width":454,"height":93,"type":"text","text":"Собирать все сервисы  и сохранять данные с каждого сервиса по запросу"},
+		{"id":"599e2f8e4ea24ab3","type":"text","text":"Как выстроить работу всей игры","x":6660,"y":17592,"width":241,"height":91},
+		{"id":"53428d1d52bce8f8","x":6191,"y":17377,"width":269,"height":50,"type":"text","text":"Игровые контексты"},
+		{"id":"fe0185207f97c5c7","x":7060,"y":17363,"width":209,"height":79,"type":"text","text":"Как запускать игровые сцены"},
+		{"id":"d883686f7ed0926a","x":6674,"y":17350,"width":214,"height":77,"type":"text","text":"С какой сцены начинать игру"},
+		{"id":"29875cbbd5b5517c","x":7025,"y":17177,"width":280,"height":83,"type":"text","text":"Бутстрап для каждой сцены отдельно"},
+		{"id":"a3f7c4af68bd931c","x":6620,"y":17128,"width":323,"height":91,"type":"text","text":"Отдельная сцена с бутстрапом для всей игры"},
+		{"id":"604ae1acc19ed6be","x":6611,"y":16680,"width":340,"height":90,"type":"text","text":"Не тонуть в работе только над одной механикой!"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
@@ -992,6 +998,15 @@
 		{"id":"44de1de215d5b01e","fromNode":"beabdb00d030a268","fromSide":"bottom","toNode":"3f4ca888ea6d5d30","toSide":"top"},
 		{"id":"b77f9013c7bc3082","fromNode":"7b2532d4cdb0934c","fromSide":"bottom","toNode":"c2a2e782263a5c70","toSide":"top"},
 		{"id":"b4db89e8b03048d3","fromNode":"c2a2e782263a5c70","fromSide":"bottom","toNode":"18eaa3841c80acb9","toSide":"top"},
-		{"id":"4f2c671cb902de74","fromNode":"c2a2e782263a5c70","fromSide":"bottom","toNode":"b32c6152b0c99b27","toSide":"top"}
+		{"id":"4f2c671cb902de74","fromNode":"c2a2e782263a5c70","fromSide":"bottom","toNode":"b32c6152b0c99b27","toSide":"top"},
+		{"id":"577f4eb462043d5a","fromNode":"599e2f8e4ea24ab3","fromSide":"top","toNode":"53428d1d52bce8f8","toSide":"bottom"},
+		{"id":"ba25a07f4e9d8cbd","fromNode":"599e2f8e4ea24ab3","fromSide":"top","toNode":"d883686f7ed0926a","toSide":"bottom"},
+		{"id":"5e37cac5bdaf6671","fromNode":"599e2f8e4ea24ab3","fromSide":"top","toNode":"fe0185207f97c5c7","toSide":"bottom"},
+		{"id":"f056c213aea7c3fc","fromNode":"fe0185207f97c5c7","fromSide":"top","toNode":"29875cbbd5b5517c","toSide":"bottom"},
+		{"id":"79febd1ec211795a","fromNode":"d883686f7ed0926a","fromSide":"top","toNode":"a3f7c4af68bd931c","toSide":"bottom"},
+		{"id":"776463ca6a4c6dc4","fromNode":"53428d1d52bce8f8","fromSide":"top","toNode":"604ae1acc19ed6be","toSide":"bottom"},
+		{"id":"f34ccfe11f9c40ff","fromNode":"a3f7c4af68bd931c","fromSide":"top","toNode":"604ae1acc19ed6be","toSide":"bottom"},
+		{"id":"f3e36107c763a1d2","fromNode":"29875cbbd5b5517c","fromSide":"top","toNode":"604ae1acc19ed6be","toSide":"bottom"},
+		{"id":"ea36c7d4e864b9a4","fromNode":"f1608ee02c48dd7a","fromSide":"top","toNode":"604ae1acc19ed6be","toSide":"bottom"}
 	]
 }
