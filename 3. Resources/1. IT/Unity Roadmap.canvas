@@ -45,7 +45,6 @@
 		{"id":"1c94cb04422ee7d6","type":"text","text":"тип Random","x":7800,"y":-580,"width":199,"height":53},
 		{"id":"fb3b98355c5bc013","type":"text","text":"Ссылочные и значимые типы","x":9160,"y":-140,"width":351,"height":60},
 		{"id":"a9145e0a86070807","type":"text","text":"куча(heap)","x":9511,"y":166,"width":163,"height":50,"color":"1"},
-		{"id":"57a03bdc854da747","type":"text","text":"стэк(stack)","x":9256,"y":166,"width":160,"height":50,"color":"1"},
 		{"id":"965e64ff9b89f7f6","type":"text","text":"reference type","x":8959,"y":166,"width":201,"height":50},
 		{"id":"1d7ecc8805ac618c","type":"text","text":"value type","x":8740,"y":166,"width":158,"height":50},
 		{"id":"7763e1b146d3ccf6","type":"text","text":" Методы","x":10100,"y":-140,"width":140,"height":60},
@@ -555,7 +554,8 @@
 		{"id":"e6f4bac5b7040b46","x":7485,"y":22585,"width":243,"height":95,"type":"text","text":"Готовые ассеты для UI и графики"},
 		{"id":"81a2204b2332ca97","x":10160,"y":22095,"width":165,"height":50,"type":"text","text":"Резюме"},
 		{"id":"23da9f125eb83128","type":"text","text":"Интерполяция строк","x":3269,"y":-325,"width":272,"height":50,"color":"1"},
-		{"id":"35664d5fce71602e","type":"text","text":"Парсинг ввода пользователя\nint.Parse(\"\"), float.Parse(\"\") и тд","x":3629,"y":-342,"width":380,"height":84,"color":"1"}
+		{"id":"35664d5fce71602e","type":"text","text":"Парсинг ввода пользователя\nint.Parse(\"\"), float.Parse(\"\") и тд","x":3629,"y":-342,"width":380,"height":84,"color":"1"},
+		{"id":"57a03bdc854da747","type":"text","text":"стэк(stack)","x":9254,"y":166,"width":164,"height":50,"color":"1"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
