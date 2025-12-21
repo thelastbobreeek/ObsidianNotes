@@ -483,7 +483,18 @@
 		{"id":"3f42d99f27475c07","type":"text","text":"Посоздавать разные окошки","x":6456,"y":19220,"width":204,"height":80},
 		{"id":"e93b29321f6a0570","type":"text","text":"Различные отображения здоровья/очков/маны и тд","x":7317,"y":19213,"width":325,"height":94},
 		{"id":"e5345713c1b6b125","type":"text","text":"Какие-то интерактивные элементы","x":6904,"y":19195,"width":235,"height":131},
-		{"id":"fd3fe6188c341785","type":"text","text":"Куча разных задач","x":8120,"y":18734,"width":245,"height":50}
+		{"id":"fd3fe6188c341785","type":"text","text":"Куча разных задач","x":8120,"y":18734,"width":245,"height":50},
+		{"id":"7b2532d4cdb0934c","x":8042,"y":19060,"width":402,"height":82,"type":"text","text":"Под каждую задачу свой модуль/сервис (класс или набор классов)"},
+		{"id":"10ab434160f1cc68","x":7644,"y":19326,"width":320,"height":84,"type":"text","text":"Надо как-то менеджить все модули и решения"},
+		{"id":"1680005b8989061f","x":8127,"y":19560,"width":232,"height":50,"type":"text","text":"Сервис локатор"},
+		{"id":"9a1cf4346809d7f7","x":7894,"y":19560,"width":148,"height":50,"type":"text","text":"Синглтон"},
+		{"id":"beabdb00d030a268","x":7552,"y":19560,"width":168,"height":50,"type":"text","text":"DIContainer"},
+		{"id":"841b81c1f81eb1ca","x":7176,"y":19779,"width":124,"height":50,"type":"text","text":"Zenject"},
+		{"id":"3f4ca888ea6d5d30","x":7699,"y":19779,"width":195,"height":50,"type":"text","text":"Самописный"},
+		{"id":"6b37ca869421bd7c","x":7420,"y":19779,"width":171,"height":50,"type":"text","text":"VContainer"},
+		{"id":"c2a2e782263a5c70","x":8700,"y":19323,"width":364,"height":91,"type":"text","text":"Как собирать данные со всего проекта для сохранения"},
+		{"id":"18eaa3841c80acb9","x":8507,"y":19640,"width":387,"height":87,"type":"text","text":"Один класс с общими данными, через который все работает"},
+		{"id":"b32c6152b0c99b27","x":9106,"y":19634,"width":454,"height":93,"type":"text","text":"Собирать все сервисы  и сохранять данные с каждого сервиса по запросу"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
@@ -970,6 +981,17 @@
 		{"id":"99665baa41d9ea17","fromNode":"0d83e6a0e7151c0e","fromSide":"bottom","toNode":"3f42d99f27475c07","toSide":"top"},
 		{"id":"419a4787d8962c8a","fromNode":"0d83e6a0e7151c0e","fromSide":"bottom","toNode":"e5345713c1b6b125","toSide":"top"},
 		{"id":"8f9879100480572a","fromNode":"0d83e6a0e7151c0e","fromSide":"bottom","toNode":"e93b29321f6a0570","toSide":"top"},
-		{"id":"8102e0e4fbbf1cfd","fromNode":"7ed4abb3c40c90ed","fromSide":"bottom","toNode":"fd3fe6188c341785","toSide":"top"}
+		{"id":"8102e0e4fbbf1cfd","fromNode":"7ed4abb3c40c90ed","fromSide":"bottom","toNode":"fd3fe6188c341785","toSide":"top"},
+		{"id":"89b80679cf087f0e","fromNode":"fd3fe6188c341785","fromSide":"bottom","toNode":"7b2532d4cdb0934c","toSide":"top"},
+		{"id":"3a4df7a051eda691","fromNode":"7b2532d4cdb0934c","fromSide":"bottom","toNode":"10ab434160f1cc68","toSide":"top"},
+		{"id":"1844725e1bbf3043","fromNode":"10ab434160f1cc68","fromSide":"bottom","toNode":"1680005b8989061f","toSide":"top"},
+		{"id":"637f37dbc5704367","fromNode":"10ab434160f1cc68","fromSide":"bottom","toNode":"9a1cf4346809d7f7","toSide":"top"},
+		{"id":"cbe3e94674ef51e8","fromNode":"10ab434160f1cc68","fromSide":"bottom","toNode":"beabdb00d030a268","toSide":"top"},
+		{"id":"441b65091b1a253c","fromNode":"beabdb00d030a268","fromSide":"bottom","toNode":"841b81c1f81eb1ca","toSide":"top"},
+		{"id":"8a1dba01e7f8e216","fromNode":"beabdb00d030a268","fromSide":"bottom","toNode":"6b37ca869421bd7c","toSide":"top"},
+		{"id":"44de1de215d5b01e","fromNode":"beabdb00d030a268","fromSide":"bottom","toNode":"3f4ca888ea6d5d30","toSide":"top"},
+		{"id":"b77f9013c7bc3082","fromNode":"7b2532d4cdb0934c","fromSide":"bottom","toNode":"c2a2e782263a5c70","toSide":"top"},
+		{"id":"b4db89e8b03048d3","fromNode":"c2a2e782263a5c70","fromSide":"bottom","toNode":"18eaa3841c80acb9","toSide":"top"},
+		{"id":"4f2c671cb902de74","fromNode":"c2a2e782263a5c70","fromSide":"bottom","toNode":"b32c6152b0c99b27","toSide":"top"}
 	]
 }
