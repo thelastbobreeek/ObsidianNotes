@@ -55,17 +55,15 @@
             "id": "4ea4ea623afb900f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 8167.179688450302,
-                  "y": 18808.19106619171,
-                  "zoom": -0.3999999999999997
-                }
+                "file": "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Модификаторы доступа"
             }
           }
         ],
@@ -156,9 +154,10 @@
   },
   "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
+    "3. Resources/1. IT/Unity Roadmap.canvas",
+    "0. Files/0. Inbox/Всему приходит конец.md",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
     "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
-    "3. Resources/1. IT/Unity Roadmap.canvas",
     "0. Files/0. Inbox/Унарные и бинарные операции.md",
     "Untitled.canvas",
     "0. Files/0. Inbox/Явное и неявное приведение типов.md",
@@ -190,7 +189,6 @@
     "2. Areas/Дневник/Статистика/Выводы/2025 выводы.canvas",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Моё расписание.md",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
-    "3. Resources/5. Литература/Цитаты/\"Слепые\".md",
     "3. Resources/5. Литература/Цитаты",
     "3. Resources/5. Литература",
     "3. Resources/4. Социология",
@@ -210,7 +208,6 @@
     "_system files (системные файлы)/Cashe (кэш)/image-2025.10.09 2. Базовые элементы работы-1.png",
     "_system files (системные файлы)/Cashe (кэш)/image-2025.10.08 2. Базовые элементы работы-1.png",
     "_system files (системные файлы)/Cashe (кэш)/1046031451418748950.jpg",
-    "_system files (системные файлы)/Cashe (кэш)/Как конвертировать карточку в заметку.png",
     "Ежегодная статистика/2025/3 Июнь/Результаты за июнь 2025.canvas"
   ]
 }
