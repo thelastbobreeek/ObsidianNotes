@@ -587,7 +587,8 @@
 		{"id":"39e57f245d386af9","x":2849,"y":24377,"width":131,"height":50,"type":"text","text":"Sensors"},
 		{"id":"9a9766f8d62089dc","x":3334,"y":24377,"width":204,"height":50,"type":"text","text":"StateMachine"},
 		{"id":"e1b7e31dfcd16e46","x":3609,"y":24377,"width":201,"height":50,"type":"text","text":"BehaviourTree"},
-		{"id":"205133ff8dcf58e1","x":3880,"y":24377,"width":123,"height":50,"type":"text","text":"UtilityAI"}
+		{"id":"205133ff8dcf58e1","x":3880,"y":24377,"width":123,"height":50,"type":"text","text":"UtilityAI"},
+		{"id":"6f426de5c6334e5f","x":13071,"y":22089,"width":249,"height":111,"type":"text","text":"Боль и страдания от первой работы"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
@@ -1186,6 +1187,7 @@
 		{"id":"b8fa2daf578b2dd8","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"8dafb5ec9eb004b4","toSide":"bottom"},
 		{"id":"76cf0c0ed3494ba1","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"9a9766f8d62089dc","toSide":"bottom"},
 		{"id":"9c0a6342434f3c79","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"e1b7e31dfcd16e46","toSide":"bottom"},
-		{"id":"6568b10103445608","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"205133ff8dcf58e1","toSide":"bottom"}
+		{"id":"6568b10103445608","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"205133ff8dcf58e1","toSide":"bottom"},
+		{"id":"065d919bf87e9df2","fromNode":"50f97e772ab34ca5","fromSide":"right","toNode":"6f426de5c6334e5f","toSide":"left"}
 	]
 }
