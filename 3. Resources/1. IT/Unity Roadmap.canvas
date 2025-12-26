@@ -588,7 +588,7 @@
 		{"id":"9a9766f8d62089dc","x":3334,"y":24377,"width":204,"height":50,"type":"text","text":"StateMachine"},
 		{"id":"e1b7e31dfcd16e46","x":3609,"y":24377,"width":201,"height":50,"type":"text","text":"BehaviourTree"},
 		{"id":"205133ff8dcf58e1","x":3880,"y":24377,"width":123,"height":50,"type":"text","text":"UtilityAI"},
-		{"id":"6f426de5c6334e5f","x":13071,"y":22089,"width":249,"height":111,"type":"text","text":"Боль и страдания от первой работы"}
+		{"id":"6f426de5c6334e5f","x":13080,"y":22063,"width":249,"height":111,"type":"text","text":"Боль и страдания от первой работы"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
