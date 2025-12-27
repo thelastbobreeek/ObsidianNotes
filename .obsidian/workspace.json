@@ -57,13 +57,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/1. IT/База/Сборщик мусора.md",
+                "file": "0. Files/0. Inbox/Конкатенация строк.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Сборщик мусора"
+              "title": "Конкатенация строк"
             }
           }
         ],
@@ -154,6 +154,7 @@
   },
   "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
+    "3. Resources/1. IT/База/Сборщик мусора.md",
     "0. Files/0. Inbox/Конкатенация строк.md",
     "3. Resources/1. IT/Unity Roadmap.canvas",
     "0. Files/0. Inbox/Интерполяция строк.md",
