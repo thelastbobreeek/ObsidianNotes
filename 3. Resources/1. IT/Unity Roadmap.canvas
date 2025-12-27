@@ -576,7 +576,19 @@
 		{"id":"9a9766f8d62089dc","type":"text","text":"StateMachine","x":3334,"y":24377,"width":204,"height":50},
 		{"id":"e1b7e31dfcd16e46","type":"text","text":"BehaviourTree","x":3609,"y":24377,"width":201,"height":50},
 		{"id":"205133ff8dcf58e1","type":"text","text":"UtilityAI","x":3880,"y":24377,"width":123,"height":50},
-		{"id":"6f426de5c6334e5f","type":"text","text":"Боль и страдания от первой работы","x":13080,"y":22063,"width":249,"height":111}
+		{"id":"6f426de5c6334e5f","type":"text","text":"Боль и страдания от первой работы","x":13080,"y":22063,"width":249,"height":111},
+		{"id":"5f4e36dd0f997581","x":1998,"y":22780,"width":242,"height":50,"type":"text","text":"Менеджмент сцен"},
+		{"id":"545d700e4bcbe46c","x":2280,"y":22780,"width":383,"height":50,"type":"text","text":"Обработка ввода пользователя"},
+		{"id":"8dd367f39f40c88c","x":2711,"y":22780,"width":286,"height":50,"type":"text","text":"Менеджмент данных"},
+		{"id":"094ee33aa7f4aea9","x":3080,"y":22780,"width":163,"height":50,"type":"text","text":"Работа с UI"},
+		{"id":"db032a9d16c9105a","x":3285,"y":22757,"width":286,"height":96,"type":"text","text":"Работа с ресурсами/ассетами проекта"},
+		{"id":"ae438cfd63356454","x":3640,"y":22767,"width":291,"height":76,"type":"text","text":"Настройки/конфиги игры и их менеджмент"},
+		{"id":"5f90ac535f3b4834","x":4040,"y":22764,"width":369,"height":83,"type":"text","text":"Модульность ради поддержания расширяемости"},
+		{"id":"3a225fa40a5f9546","x":4560,"y":22780,"width":429,"height":50,"type":"text","text":"Какие-то классические механики"},
+		{"id":"d0933528aa24bb9c","x":4320,"y":23013,"width":323,"height":50,"type":"text","text":"Уровни для прохождения"},
+		{"id":"beda96738f03c5b3","x":4696,"y":23013,"width":157,"height":50,"type":"text","text":"Прокачка"},
+		{"id":"13030a5e7088b6ff","x":4920,"y":23013,"width":241,"height":50,"type":"text","text":"Ресурсы/валюты"},
+		{"id":"10b083326fe1b5ed","x":5240,"y":23013,"width":147,"height":50,"type":"text","text":"Магазин"}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},
@@ -1164,6 +1176,18 @@
 		{"id":"76cf0c0ed3494ba1","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"9a9766f8d62089dc","toSide":"bottom"},
 		{"id":"9c0a6342434f3c79","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"e1b7e31dfcd16e46","toSide":"bottom"},
 		{"id":"6568b10103445608","fromNode":"ea21249e33368d20","fromSide":"top","toNode":"205133ff8dcf58e1","toSide":"bottom"},
-		{"id":"065d919bf87e9df2","fromNode":"50f97e772ab34ca5","fromSide":"right","toNode":"6f426de5c6334e5f","toSide":"left"}
+		{"id":"065d919bf87e9df2","fromNode":"50f97e772ab34ca5","fromSide":"right","toNode":"6f426de5c6334e5f","toSide":"left"},
+		{"id":"999f8dbc3a025a15","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"5f4e36dd0f997581","toSide":"top"},
+		{"id":"c1a1e726e669bc85","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"545d700e4bcbe46c","toSide":"top"},
+		{"id":"4ccb74d62a57ab0a","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"8dd367f39f40c88c","toSide":"top"},
+		{"id":"b2cc736ae958c9aa","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"094ee33aa7f4aea9","toSide":"top"},
+		{"id":"d1dc62509e2ceffc","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"db032a9d16c9105a","toSide":"top"},
+		{"id":"ad8c82b9b58a17aa","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"ae438cfd63356454","toSide":"top"},
+		{"id":"30c8706d664012d1","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"5f90ac535f3b4834","toSide":"top"},
+		{"id":"c3fde21cd9ddf03f","fromNode":"2bffee38d52c97c0","fromSide":"bottom","toNode":"3a225fa40a5f9546","toSide":"top"},
+		{"id":"1dd02a4493463ba1","fromNode":"3a225fa40a5f9546","fromSide":"bottom","toNode":"d0933528aa24bb9c","toSide":"top"},
+		{"id":"c0764fdf550eac5f","fromNode":"3a225fa40a5f9546","fromSide":"bottom","toNode":"beda96738f03c5b3","toSide":"top"},
+		{"id":"c948e1b8423f1c4d","fromNode":"3a225fa40a5f9546","fromSide":"bottom","toNode":"13030a5e7088b6ff","toSide":"top"},
+		{"id":"e10f08ad528a0038","fromNode":"3a225fa40a5f9546","fromSide":"bottom","toNode":"10b083326fe1b5ed","toSide":"top"}
 	]
 }
