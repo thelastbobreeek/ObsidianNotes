@@ -55,17 +55,15 @@
             "id": "4ea4ea623afb900f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 4093.218108126393,
-                  "y": 22997.044681047213,
-                  "zoom": -1.5999999999999996
-                }
+                "file": "0. Files/0. Inbox/Интерполяция строк.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Интерполяция строк"
             }
           }
         ],
@@ -156,8 +154,9 @@
   },
   "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
-    "0. Files/0. Inbox/Всему приходит конец.md",
     "3. Resources/1. IT/Unity Roadmap.canvas",
+    "0. Files/0. Inbox/Интерполяция строк.md",
+    "0. Files/0. Inbox/Всему приходит конец.md",
     "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
     "0. Files/0. Inbox/Унарные и бинарные операции.md",
@@ -189,7 +188,6 @@
     "2. Areas/Разработка игр/Геймдизайн - цели на 2025.md",
     "2. Areas/Дневник/Статистика/Выводы/2026 выводы.canvas",
     "2. Areas/Дневник/Статистика/Выводы/2025 выводы.canvas",
-    "2. Areas/Дневник/Ежедневник и задачи/Задачи/Моё расписание.md",
     "2. Areas/Дневник/Ежедневник и задачи/Задачи/Доска заданий.canvas",
     "3. Resources/5. Литература/Цитаты",
     "3. Resources/5. Литература",
