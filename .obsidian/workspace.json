@@ -55,17 +55,15 @@
             "id": "4ea4ea623afb900f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/1. IT/Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 3040.0899023226657,
-                  "y": 18192.175217715787,
-                  "zoom": -0.3999999999999997
-                }
+                "file": "3. Resources/4. Социология/Как делать из софт-скиллов деньги?.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Как делать из софт-скиллов деньги?"
             }
           }
         ],
@@ -156,11 +154,11 @@
   },
   "active": "4ea4ea623afb900f",
   "lastOpenFiles": [
+    "3. Resources/1. IT/Unity Roadmap.canvas",
     "0. Files/0. Inbox/Конкатенация строк.md",
     "Untitled.canvas",
     "3. Resources/1. IT/Программирование/База/Работа программы/Intermediate Language.md",
     "3. Resources/1. IT/База/Сборщик мусора.md",
-    "3. Resources/1. IT/Unity Roadmap.canvas",
     "0. Files/0. Inbox/Интерполяция строк.md",
     "0. Files/0. Inbox/Всему приходит конец.md",
     "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
