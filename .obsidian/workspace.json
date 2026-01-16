@@ -65,9 +65,21 @@
               "icon": "lucide-file",
               "title": "Тернарный оператор"
             }
+          },
+          {
+            "id": "4db5346467286936",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,8 +164,9 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "4ea4ea623afb900f",
+  "active": "24001ef4ed6bf1cb",
   "lastOpenFiles": [
+    "IT/База/Компилятор.md",
     "IT/База/DotNet.md",
     "Социология/Как делать из софт-скиллов деньги.md",
     "Литература/Цитаты/Он был любим....md",
@@ -183,7 +196,6 @@
     "IT/Программирование/CSharp/Модификаторы доступа.md",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
     "0. Files/0. Inbox/Унарные и бинарные операции.md",
-    "0. Files/0. Inbox/Явное и неявное приведение типов.md",
     "0. Files/2. Attachments/Pasted image 20251209225321.png",
     "0. Files/2. Attachments",
     "todoist-backup-2025121222151.json",
