@@ -30,24 +30,16 @@
   ],
   "fileColors": [
     {
-      "path": "0. Files",
-      "color": "s-prWaABM95hjmw81Cm5N"
-    },
-    {
-      "path": "1. Projects",
+      "path": "1. IT",
       "color": "fWOczowFi5op-BwqMhLJk"
     },
     {
-      "path": "2. Areas",
-      "color": "LHRLico31DHboBBbEoGk7"
+      "path": "Социология",
+      "color": "s-prWaABM95hjmw81Cm5N"
     },
     {
-      "path": "3. Resources",
+      "path": "Литература",
       "color": "eVQljhJ-p4_v6D1vVhsDl"
-    },
-    {
-      "path": "4. Archive",
-      "color": "1pFY8zWhT52Cb5CvGV-L0"
     }
   ]
 }
