@@ -27,7 +27,7 @@
 		{"id":"28f7110301e907a9","type":"text","text":"Условные операторы","x":5440,"y":30,"width":274,"height":50},
 		{"id":"2ac98c25a8abf150","type":"text","text":"if/else","x":5440,"y":241,"width":125,"height":50},
 		{"id":"b26dc54bc9618661","type":"text","text":"switch/case","x":5624,"y":241,"width":166,"height":50,"color":"1"},
-		{"id":"7b99f4f9deae0b6b","type":"text","text":"[[Тернарный оператор]]","x":4540,"y":517,"width":280,"height":50,"color":"1"},
+		{"id":"7b99f4f9deae0b6b","type":"text","text":"[[Тернарный оператор]]","x":4540,"y":517,"width":280,"height":50},
 		{"id":"409e47fae5cc0f0f","type":"text","text":"Циклы","x":6040,"y":-140,"width":250,"height":60},
 		{"id":"32853df483bd3646","type":"text","text":"while\n","x":5513,"y":-402,"width":111,"height":50},
 		{"id":"1ed6547e53a50602","type":"text","text":"for","x":6086,"y":-402,"width":79,"height":50},
