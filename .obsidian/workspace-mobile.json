@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Files/0. Inbox/Он был любим....md",
-                "mode": "preview",
+                "file": "0. Files/0. Inbox/Тернарный оператор.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Он был любим..."
+              "title": "Тернарный оператор"
             }
           }
         ],
@@ -196,16 +196,23 @@
   },
   "active": "526ca6eea58ab3f5",
   "lastOpenFiles": [
+    "1. Projects/IsoTowerDefense/Проект Isometric Tower Defence.md",
+    "2. Areas/Учеба/Учеба - цели на 2025.md",
+    "3. Resources/3. Здоровье/Бей или беги.md",
+    "3. Resources/3. Здоровье/0. MOC - Здоровье.md",
+    "3. Resources/2. Продуктивность/0. MOC -  Продуктивность.md",
+    "3. Resources/3. Здоровье/Сон/Влияние стабильного подъема по утрам на биоритмы и здоровье.md",
+    "0. Files/0. Inbox/Расписание.md",
+    "3. Resources/3. Здоровье/Порог входа.md",
+    "3. Resources/5. Литература/Цитаты/Бассейн Дэвида Гоггинса.md",
     "0. Files/0. Inbox/Тернарный оператор.md",
     "0. Files/0. Inbox/Он был любим....md",
     "3. Resources/1. IT/Unity Roadmap.canvas",
-    "3. Resources/5. Литература/Цитаты/Бассейн Дэвида Гоггинса.md",
     "0. Files/0. Inbox/Книга по программированию.md",
     "3. Resources/5. Литература/Цитаты/Всему приходит конец.md",
     "3. Resources/1. IT/Программирование/CSharp/Mono.md",
     "3. Resources/1. IT/Unity/Unity.md",
     "3. Resources/1. IT/Unity/Повороты в 2D.md",
-    "0. Files/0. Inbox/Расписание.md",
     "0. Files/0. Inbox/Скачать obsidian tiling.md",
     "3. Resources/1. IT/Программирование/CSharp/Унарные и бинарные операции.md",
     "0. Files/0. Inbox/Суба братик мой субашич.md",
@@ -217,15 +224,8 @@
     "3. Resources/1. IT/Программирование/База/ООП/ООП.md",
     "3. Resources/1. IT/Программирование/База/ООП/Наследование.md",
     "3. Resources/1. IT/Программирование/База/ООП/Инкапсуляция.md",
-    "3. Resources/1. IT/Программирование/База/ООП/Абстракция.md",
-    "3. Resources/1. IT/Программирование/База/ООП/Абстрактный класс.md",
     "3. Resources/1. IT/Программирование/База/Работа программы",
     "3. Resources/1. IT/Программирование/База/ООП",
-    "3. Resources/1. IT/Программирование/CSharp/Ссылочные и значимые типы.md",
-    "3. Resources/1. IT/Программирование/CSharp/Модификаторы доступа.md",
-    "3. Resources/1. IT/Программирование/CSharp/Модификатор доступа new.md",
-    "3. Resources/1. IT/Программирование/CSharp/Интерфейс в СSharp.md",
-    "3. Resources/5. Литература/Цитаты/Слепые.md",
     "3. Resources/1. IT/Программирование/База",
     "3. Resources/1. IT/Программирование/CSharp",
     "3. Resources/5. Литература/Цитаты",
