@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSharp.md",
-                "mode": "preview",
+                "file": "IT/Программирование/CSharp/Явное и неявное приведение типов.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CSharp"
+              "title": "Явное и неявное приведение типов"
             }
           }
         ],
@@ -152,16 +152,18 @@
   },
   "active": "7c5af237fa3dc83c",
   "lastOpenFiles": [
+    "IT/Программирование/CSharp/Унарные и бинарные операции.md",
+    "IT/Программирование/CSharp/Ссылочные и значимые типы.md",
+    "IT/Программирование/CSharp/Модификаторы доступа.md",
+    "IT/Программирование/CSharp/Модификатор доступа new.md",
+    "IT/Программирование/CSharp/Конкатенация строк.md",
+    "IT/Программирование/CSharp/Интерфейс в СSharp.md",
+    "IT/Программирование/CSharp/Интерполяция строк.md",
+    "IT/Программирование/CSharp/CSharp.md",
+    "IT/Программирование/CSharp/Mono.md",
     "IT/Unity/Повороты в 2D.md",
     "ХЫХЫХЫ.md",
     "IT/Unity Roadmap.canvas",
-    "CSharp.md",
-    "IT/Программирование/CSharp/Интерфейс в СSharp.md",
-    "IT/Программирование/CSharp/Конкатенация строк.md",
-    "IT/Программирование/CSharp/Модификатор доступа new.md",
-    "IT/Программирование/CSharp/Модификаторы доступа.md",
-    "IT/Программирование/CSharp/Ссылочные и значимые типы.md",
-    "IT/Программирование/CSharp/Унарные и бинарные операции.md",
     "IT/Программирование/CSharp/Явное и неявное приведение типов.md",
     "IT/Тернарный оператор.md",
     "IT/База/Компилятор.md",
@@ -174,13 +176,11 @@
     "3. Resources/4. Социология/Софт скиллы.md",
     "1. Projects/Obsidian/Obsidian.md",
     "0. Files/0. Inbox/БЕБЕБЕБЕ.md",
-    "IT/Программирование/CSharp/Интерполяция строк.md",
     "IT/Unity/Unity.md",
     "IT/Unity",
     "0. Files/0. Inbox/Суба братик мой субашич.md",
     "0. Files/0. Inbox/Конкатенация строк.md",
     "Untitled.canvas",
-    "IT/Программирование/База/Работа программы/Intermediate Language.md",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
     "0. Files/2. Attachments/Pasted image 20251209225321.png",
     "0. Files/2. Attachments",
