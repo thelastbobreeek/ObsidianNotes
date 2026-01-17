@@ -53,15 +53,17 @@
             "id": "7c5af237fa3dc83c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "IT/Программирование/CSharp/CSharp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "IT/Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 9369.113205067328,
+                  "y": 317.21725888122165,
+                  "zoom": 0.19999999999999996
+                }
               },
-              "icon": "lucide-file",
-              "title": "CSharp"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
             }
           }
         ],
@@ -152,21 +154,21 @@
   },
   "active": "7c5af237fa3dc83c",
   "lastOpenFiles": [
-    "IT/Программирование/CSharp/Mono.md",
-    "IT/Программирование/CSharp/Интерполяция строк.md",
     "IT/Программирование/CSharp/Явное и неявное приведение типов.md",
     "IT/Программирование/CSharp/Унарные и бинарные операции.md",
-    "IT/Программирование/CSharp/Ссылочные и значимые типы.md",
     "IT/Программирование/CSharp/Тернарный оператор.md",
+    "IT/Программирование/CSharp/Ссылочные и значимые типы.md",
     "IT/Программирование/CSharp/Модификаторы доступа.md",
+    "IT/Программирование/CSharp/Модификатор доступа new.md",
+    "IT/Программирование/CSharp/CSharp.md",
+    "IT/Программирование/CSharp/Mono.md",
+    "IT/Программирование/CSharp/Интерполяция строк.md",
     "Без названия.md",
     "IT/Unity/Unity.md",
     "IT/Unity Roadmap.canvas",
     "IT/База/Framework.md",
-    "IT/Программирование/CSharp/Модификатор доступа new.md",
     "IT/Программирование/CSharp/Конкатенация строк.md",
     "IT/Программирование/CSharp/Интерфейс в СSharp.md",
-    "IT/Программирование/CSharp/CSharp.md",
     "IT/Unity/Повороты в 2D.md",
     "ХЫХЫХЫ.md",
     "IT/База/Компилятор.md",

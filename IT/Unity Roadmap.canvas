@@ -37,7 +37,7 @@
 		{"id":"20550a51fff2c5d3","type":"text","text":"Массивы","x":7500,"y":-140,"width":160,"height":60},
 		{"id":"d206e32834640799","type":"text","text":"Обычный массив","x":7060,"y":80,"width":240,"height":50},
 		{"id":"78bbdb3383837a35","type":"text","text":"Двумерный массив","x":7372,"y":80,"width":256,"height":50},
-		{"id":"0a0771c40c051583","type":"text","text":"Массив массивов","x":7720,"y":80,"width":244,"height":50,"color":"1"},
+		{"id":"0a0771c40c051583","type":"text","text":"Массив массивов","x":7720,"y":80,"width":244,"height":50},
 		{"id":"498c60e5d7142282","type":"text","text":"Изменение размера массива","x":8040,"y":80,"width":351,"height":50},
 		{"id":"5d087c0da1ab17c0","type":"text","text":"Дополнительно","x":7473,"y":-377,"width":214,"height":50},
 		{"id":"1eb0cb85ff84e61f","type":"text","text":"Цикл foreach","x":7180,"y":-580,"width":189,"height":50},
