@@ -11,15 +11,14 @@
             "id": "3a18799f838b9aff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "CSharp.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "aFile": "ХЫХЫХЫ.md",
+                "bFile": "ХЫХЫХЫ.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "CSharp"
+              "icon": "git-pull-request",
+              "title": "Diff: ХЫХЫХЫ"
             }
           }
         ]
@@ -180,13 +179,13 @@
   },
   "active": "3a18799f838b9aff",
   "lastOpenFiles": [
+    "CSharp.md",
     "IT/Программирование/CSharp/Mono.md",
     "/IT/Unity Roadmap.canvas",
     "/IT",
     "ХЫХЫХЫ.md",
     "/ХЫХЫХЫ.md",
     "/IT/Тернарный оператор.md",
-    "CSharp.md",
     "/CSharp.md",
     "Социология/Как делать из софт-скиллов деньги.md",
     "Литература/Цитаты/Слепые.md",
