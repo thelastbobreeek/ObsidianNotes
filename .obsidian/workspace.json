@@ -55,13 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Программирование/CSharp/Явное и неявное приведение типов.md",
+                "file": "IT/База/Framework.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Явное и неявное приведение типов"
+              "title": "Framework"
             }
           }
         ],
@@ -152,6 +152,7 @@
   },
   "active": "7c5af237fa3dc83c",
   "lastOpenFiles": [
+    "IT/Программирование/CSharp/Явное и неявное приведение типов.md",
     "IT/Программирование/CSharp/Унарные и бинарные операции.md",
     "IT/Программирование/CSharp/Ссылочные и значимые типы.md",
     "IT/Программирование/CSharp/Модификаторы доступа.md",
@@ -164,7 +165,6 @@
     "IT/Unity/Повороты в 2D.md",
     "ХЫХЫХЫ.md",
     "IT/Unity Roadmap.canvas",
-    "IT/Программирование/CSharp/Явное и неявное приведение типов.md",
     "IT/Тернарный оператор.md",
     "IT/База/Компилятор.md",
     "IT/База/DotNet.md",
