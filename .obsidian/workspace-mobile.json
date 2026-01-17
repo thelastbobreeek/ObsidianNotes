@@ -11,14 +11,15 @@
             "id": "3a18799f838b9aff",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ХЫХЫХЫ.md",
-                "bFile": "ХЫХЫХЫ.md",
-                "aRef": ""
+                "file": "CSharp.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: ХЫХЫХЫ"
+              "icon": "lucide-file",
+              "title": "CSharp"
             }
           }
         ]
