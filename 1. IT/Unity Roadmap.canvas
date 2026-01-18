@@ -43,7 +43,7 @@
 		{"id":"a0bb0b634ac42123","type":"text","text":"Параметры методов и value/reference типы","x":10023,"y":70,"width":295,"height":96},
 		{"id":"d0ffec8f91130df6","type":"text","text":"Параметры по умолчанию","x":10174,"y":-385,"width":326,"height":50},
 		{"id":"08cebb719fd47e2e","type":"text","text":"Перегрузка","x":10600,"y":-385,"width":182,"height":50},
-		{"id":"c9b0ef076b5cb514","type":"text","text":"[[Рекурсия]]","x":10900,"y":-387,"width":150,"height":55,"color":"1"},
+		{"id":"c9b0ef076b5cb514","type":"text","text":"[[Рекурсия]]","x":10900,"y":-387,"width":150,"height":55},
 		{"id":"fe582060328262a1","type":"text","text":"Сигнатура","x":9800,"y":-387,"width":163,"height":50},
 		{"id":"f3a0f15e909e64d7","type":"text","text":"Имя","x":9540,"y":-580,"width":105,"height":50},
 		{"id":"e2f969171e73b130","type":"text","text":"Параметры","x":9712,"y":-580,"width":177,"height":50},
