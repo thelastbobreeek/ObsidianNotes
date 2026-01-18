@@ -23,15 +23,10 @@
             "id": "3e9326835f2be89f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Программирование/CSharp/Интерфейс в СSharp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Интерфейс в СSharp"
+              "title": "Новая вкладка"
             }
           },
           {
@@ -65,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,13 +145,13 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "7c5af237fa3dc83c",
+  "active": "3e9326835f2be89f",
   "lastOpenFiles": [
+    "Стэк и куча.md",
     "3. Социология/Как делать из софт-скиллов деньги.md",
     "1. IT/Unity/Unity.md",
     "Требования к продуктивности.md",
     "1. IT/База/Сборщик мусора.md",
-    "Стэк и куча.md",
     "0. Файлы/1. Изображения",
     "0. Файлы/0. Входящие",
     "0. Файлы",
