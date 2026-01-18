@@ -1,0 +1,68 @@
+/* tight-spacing.css
+   Уменьшить большие пробелы между заголовками, параграфами и списками
+   Применяется к превью (preview) и к редактору (source).
+*/
+
+/* --- Preview (визуальная часть) --- */
+.markdown-preview-view {
+  /* общий межстрочный интервал для параграфов/списков */
+  --preview-line-height: 1.45;
+}
+
+.markdown-preview-view p,
+.markdown-preview-view blockquote,
+.markdown-preview-view li {
+  line-height: var(--preview-line-height);
+  margin-top: 0;
+  margin-bottom: 0.35em; /* уменьшить расстояние между параграфами и пунктами списка */
+}
+
+/* Заголовки: чуть плотнее сверху и снизу */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  margin-top: 0.45em;
+  margin-bottom: 0.35em;
+  line-height: 1.15;
+}
+
+/* Списки — убираем лишний отступ сверху/снизу */
+.markdown-preview-view ul,
+.markdown-preview-view ol {
+  margin-top: 0.25em;
+  margin-bottom: 0.5em;
+  padding-left: 1.2em; /* подстроить при необходимости */
+}
+
+/* Когда заголовок сразу перед списком/параграфом — делаем их ещё ближе */
+.markdown-preview-view h1 + p,
+.markdown-preview-view h2 + p,
+.markdown-preview-view h3 + p,
+.markdown-preview-view h1 + ul,
+.markdown-preview-view h2 + ul,
+.markdown-preview-view h3 + ul {
+  margin-top: 0.15em;
+}
+
+/* --- Source / редактор (CodeMirror) --- */
+/* Слегка уменьшаем межстрочный в редакторе и отступы между строками */
+.markdown-source-view .cm-line,
+.markdown-source-view .cm-content .cm-line {
+  line-height: 1.45 !important;
+  padding-bottom: 0.05em;
+}
+
+/* Заголовки в редакторе (форматирование) — делают визуально плотнее */
+.markdown-source-view .cm-formatting,
+.markdown-source-view .cm-header {
+  margin-bottom: 0 !important;
+}
+
+/* Если тема Minimal задаёт свои специфичные селекторы, попробуй эти дополнительные */
+.theme-minimal .markdown-preview-view p,
+.theme-minimal .markdown-preview-view li {
+  margin-bottom: 0.35em;
+}
