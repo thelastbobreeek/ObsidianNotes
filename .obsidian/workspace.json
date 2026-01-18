@@ -48,17 +48,15 @@
             "id": "7c5af237fa3dc83c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1. IT/Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 11484.76707411045,
-                  "y": 77.12436896813435,
-                  "zoom": -0.3999999999999997
-                }
+                "file": "Требования к продуктивности.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Требования к продуктивности"
             }
           }
         ],
@@ -149,8 +147,8 @@
   },
   "active": "7c5af237fa3dc83c",
   "lastOpenFiles": [
-    "1. IT/Программирование/CSharp/Рекурсия.md",
     "1. IT/Unity Roadmap.canvas",
+    "1. IT/Программирование/CSharp/Рекурсия.md",
     "1. IT/Программирование/CSharp/Стэк и куча.md",
     "3. Социология/Как делать из софт-скиллов деньги.md",
     "1. IT/Unity/Unity.md",
