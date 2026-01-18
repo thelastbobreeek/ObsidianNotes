@@ -2,10 +2,10 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "0. Files/2. Attachments",
+  "attachmentFolderPath": "0. Файлы/2. Изображения",
   "promptDelete": false,
   "defaultViewMode": "preview",
-  "newFileFolderPath": "0. Files/0. Inbox",
+  "newFileFolderPath": "0. Файлы/0. Файлы",
   "userIgnoreFilters": [
     "2. Areas/Дневник/Статистика/"
   ]
