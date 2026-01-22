@@ -28,22 +28,5 @@
       "value": "#fbff00"
     }
   ],
-  "fileColors": [
-    {
-      "path": "1. IT",
-      "color": "s-prWaABM95hjmw81Cm5N"
-    },
-    {
-      "path": "2. Литература",
-      "color": "LHRLico31DHboBBbEoGk7"
-    },
-    {
-      "path": "3. Социология",
-      "color": "eVQljhJ-p4_v6D1vVhsDl"
-    },
-    {
-      "path": "0. Файлы",
-      "color": "1pFY8zWhT52Cb5CvGV-L0"
-    }
-  ]
+  "fileColors": []
 }
