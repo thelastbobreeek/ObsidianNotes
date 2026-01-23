@@ -50,7 +50,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1. IT/Unity Roadmap.canvas",
+                "file": "0. Unity Roadmap.canvas",
                 "viewState": {
                   "x": 11500.580484284845,
                   "y": 250.50459288043078,
@@ -58,11 +58,38 @@
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "title": "0. Unity Roadmap"
+            }
+          },
+          {
+            "id": "32dc56e81e7e7f0a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.5"
+            }
+          },
+          {
+            "id": "8ac80096b961a27f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Framework.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Framework"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -147,38 +174,38 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "7c5af237fa3dc83c",
+  "active": "24001ef4ed6bf1cb",
   "lastOpenFiles": [
+    "Абстрактный класс.md",
+    "IL2CPP.md",
+    "Всему приходит конец.md",
+    "CSharp.md",
+    "Материалы для просмотра.md",
     "Игра.md",
     "Требования к продуктивности.md",
-    "1. IT/Unity Roadmap.canvas",
-    "1. IT/Программирование/CSharp/Рекурсия.md",
-    "1. IT/Программирование/CSharp/Стэк и куча.md",
-    "3. Социология/Как делать из софт-скиллов деньги.md",
-    "1. IT/Unity/Unity.md",
-    "1. IT/База/Сборщик мусора.md",
+    "0. Unity Roadmap.canvas",
+    "Рекурсия.md",
+    "Стэк и куча.md",
+    "Как делать из софт-скиллов деньги.md",
+    "Unity.md",
+    "Сборщик мусора.md",
     "0. Файлы/1. Изображения",
     "0. Файлы/0. Входящие",
     "0. Файлы",
-    "1. IT/Программирование/CSharp/Ссылочные и значимые типы.md",
-    "1. IT/Программирование/CSharp/Явное и неявное приведение типов.md",
-    "1. IT/Программирование/CSharp/Унарные и бинарные операции.md",
-    "1. IT/Программирование/CSharp/Тернарный оператор.md",
-    "1. IT/Программирование/CSharp/Модификаторы доступа.md",
-    "1. IT/Программирование/CSharp/Модификатор доступа new.md",
-    "1. IT/Программирование/CSharp/CSharp.md",
-    "1. IT/Программирование/CSharp/Mono.md",
-    "1. IT/Программирование/CSharp/Интерполяция строк.md",
-    "Без названия.md",
-    "1. IT/База/Framework.md",
-    "1. IT/Программирование/CSharp/Конкатенация строк.md",
-    "1. IT/Программирование/CSharp/Интерфейс в СSharp.md",
-    "1. IT/Unity/Повороты в 2D.md",
+    "Ссылочные и значимые типы.md",
+    "Явное и неявное приведение типов.md",
+    "Унарные и бинарные операции.md",
+    "Тернарный оператор.md",
+    "Модификаторы доступа.md",
+    "Модификатор доступа new.md",
+    "Mono.md",
+    "Интерполяция строк.md",
+    "Framework.md",
+    "Конкатенация строк.md",
+    "Интерфейс в СSharp.md",
+    "Повороты в 2D.md",
     "ХЫХЫХЫ.md",
-    "1. IT/База/Компилятор.md",
-    "IT/База/DotNet.md",
-    "2. Литература/Цитаты/Он был любим....md",
-    "2. Литература/Цитаты/Всему приходит конец.md",
+    "Компилятор.md",
     "1. IT/Unity",
     "Untitled.canvas",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
