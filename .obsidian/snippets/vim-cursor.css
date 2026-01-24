@@ -1,0 +1,9 @@
+/* NORMAL MODE */
+.cm-fat-cursor {
+  background-color: #ff5555 !important;
+}
+
+/* INSERT MODE */
+.cm-cursor {
+  border-left: 2px solid #50fa7b !important;
+}
