@@ -97,17 +97,15 @@
             "id": "49fd5e147a40f820",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 11588.740809400586,
-                  "y": 166.71115602046947,
-                  "zoom": 0.19999999999999996
-                }
+                "file": "HashSet.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "HashSet"
             }
           }
         ],
@@ -198,8 +196,8 @@
   },
   "active": "49fd5e147a40f820",
   "lastOpenFiles": [
-    "HashSet.md",
     "Unity Roadmap.canvas",
+    "HashSet.md",
     "Модификаторы доступа.md",
     "Интерполяция строк.md",
     "Рекурсия.md",
