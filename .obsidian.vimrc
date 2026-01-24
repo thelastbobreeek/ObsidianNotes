@@ -15,16 +15,15 @@ nnoremap <Space>w :write<CR>
 
 " ===========================
 " hjkl → jkl;
-" ===========================
 nnoremap j h
 nnoremap k j
 nnoremap l k
-nnoremap ; h
+nnoremap : l
 
 vnoremap j h
 vnoremap k j
 vnoremap l k
-vnoremap ; l
+vnoremap : l
 
 " ===========================
 " Системный буфер
