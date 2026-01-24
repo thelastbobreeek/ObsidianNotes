@@ -4,9 +4,10 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "0. Файлы/2. Изображения",
   "promptDelete": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "newFileFolderPath": "0. Файлы/0. Файлы",
   "userIgnoreFilters": [
     "2. Areas/Дневник/Статистика/"
-  ]
+  ],
+  "readableLineLength": true
 }
