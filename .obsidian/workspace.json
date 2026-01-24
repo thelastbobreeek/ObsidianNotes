@@ -62,30 +62,35 @@
             }
           },
           {
-            "id": "32dc56e81e7e7f0a",
+            "id": "8ac80096b961a27f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 11413.304578176705,
+                  "y": 396.8591604904792,
+                  "zoom": -0.3999999999999997
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.5"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
             }
           },
           {
-            "id": "8ac80096b961a27f",
+            "id": "535758f41945684a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Framework.md",
+                "file": "HashSet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Framework"
+              "title": "HashSet"
             }
           }
         ],
@@ -108,7 +113,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -174,20 +179,24 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "24001ef4ed6bf1cb",
+  "active": "535758f41945684a",
   "lastOpenFiles": [
-    "Абстрактный класс.md",
-    "IL2CPP.md",
-    "Всему приходит конец.md",
+    "Рекурсия.md",
+    "Unity.md",
+    "Интерполяция строк.md",
     "CSharp.md",
-    "Материалы для просмотра.md",
     "Игра.md",
     "Требования к продуктивности.md",
-    "0. Unity Roadmap.canvas",
-    "Рекурсия.md",
+    "HashSet.md",
+    "Unity Roadmap.canvas",
     "Стэк и куча.md",
+    "Всему приходит конец.md",
+    "Mono.md",
+    "Материалы для просмотра.md",
+    "Framework.md",
+    "Абстрактный класс.md",
+    "IL2CPP.md",
     "Как делать из софт-скиллов деньги.md",
-    "Unity.md",
     "Сборщик мусора.md",
     "0. Файлы/1. Изображения",
     "0. Файлы/0. Входящие",
@@ -198,14 +207,9 @@
     "Тернарный оператор.md",
     "Модификаторы доступа.md",
     "Модификатор доступа new.md",
-    "Mono.md",
-    "Интерполяция строк.md",
-    "Framework.md",
     "Конкатенация строк.md",
     "Интерфейс в СSharp.md",
     "Повороты в 2D.md",
-    "ХЫХЫХЫ.md",
-    "Компилятор.md",
     "1. IT/Unity",
     "Untitled.canvas",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
