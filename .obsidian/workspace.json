@@ -112,15 +112,17 @@
             "id": "fa9413bff94d1516",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 13941.416996135165,
+                  "y": -728.0388167357407,
+                  "zoom": -0.4
+                }
               },
-              "icon": "lucide-file",
-              "title": "List"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
             }
           }
         ],
@@ -213,6 +215,7 @@
   "lastOpenFiles": [
     "HashSet.md",
     "List.md",
+    "Конкатенация строк.md",
     "Unity Roadmap.canvas",
     "Модификаторы доступа.md",
     "Интерполяция строк.md",
@@ -238,7 +241,6 @@
     "Унарные и бинарные операции.md",
     "Тернарный оператор.md",
     "Модификатор доступа new.md",
-    "Конкатенация строк.md",
     "Интерфейс в СSharp.md",
     "Повороты в 2D.md",
     "1. IT/Unity",
