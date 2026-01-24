@@ -54,7 +54,7 @@
 		{"id":"c9158ec61f03b33e","type":"text","text":"Capacity","x":10829,"y":268,"width":182,"height":52,"color":"1"},
 		{"id":"8611289831fb6977","type":"text","text":"Dictionary","x":11120,"y":79,"width":150,"height":50,"color":"1"},
 		{"id":"918d99e78b5ae650","type":"text","text":"Queue","x":11402,"y":79,"width":116,"height":50,"color":"1"},
-		{"id":"67edb5352821a00e","type":"text","text":"HashSet","x":11626,"y":79,"width":141,"height":50,"color":"1"},
+		{"id":"67edb5352821a00e","type":"text","text":"[[HashSet]]","x":11626,"y":79,"width":141,"height":50,"color":"1"},
 		{"id":"d64d9ac55b554e91","type":"text","text":"Stack","x":11860,"y":79,"width":121,"height":50,"color":"1"},
 		{"id":"9aff5b34fe58bf2a","type":"text","text":"Классы","x":12920,"y":-135,"width":142,"height":50},
 		{"id":"5b9e5b874260b9d0","type":"text","text":"Сначала","x":12920,"y":-380,"width":142,"height":50},
