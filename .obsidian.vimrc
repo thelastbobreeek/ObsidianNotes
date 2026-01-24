@@ -1,0 +1,76 @@
+" ===========================
+" Leader
+" ===========================
+let mapleader=" "
+
+" ===========================
+" RU → EN (чтобы jkl; работали в русской раскладке)
+" ===========================
+set langmap=ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz,ё;`,Ё;~
+
+" ===========================
+" Быстрый выход из insert
+" ===========================
+inoremap jk <Esc>
+
+" ===========================
+" Сохранение
+" ===========================
+nnoremap <leader>w :write<CR>
+
+" ===========================
+" hjkl → jkl;
+" ===========================
+" Normal
+nnoremap j h
+nnoremap k j
+nnoremap l k
+nnoremap ; l
+
+" Visual
+vnoremap j h
+vnoremap k j
+vnoremap l k
+vnoremap ; l
+
+" ===========================
+" Ctrl+C независимо от раскладки
+" ===========================
+nnoremap <C-с> <C-c>
+inoremap <C-с> <C-c>
+vnoremap <C-с> <C-c>
+
+" ===========================
+" Системный буфер
+" ===========================
+nnoremap <C-y> "+y
+vnoremap <C-y> "+y
+
+" ===========================
+" Поиск
+" ===========================
+nnoremap <Esc> :nohlsearch<CR>
+
+" ===========================
+" Прокрутка + центрирование
+" ===========================
+nnoremap <C-D> <C-D>zz
+nnoremap <C-U> <C-U>zz
+
+" ===========================
+" Навигация по заметкам (Obsidian)
+" ===========================
+nnoremap <leader>o :quickSwitcher<CR>
+
+" ===========================
+" Отключаем стрелки
+" ===========================
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
+
+noremap! <Up> <NOP>
+noremap! <Down> <NOP>
+noremap! <Left> <NOP>
+noremap! <Right> <NOP>

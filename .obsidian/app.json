@@ -1,13 +1,12 @@
 {
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "0. Файлы/2. Изображения",
+  "attachmentFolderPath": "/",
   "promptDelete": false,
   "defaultViewMode": "source",
-  "newFileFolderPath": "0. Файлы/0. Файлы",
-  "userIgnoreFilters": [
-    "2. Areas/Дневник/Статистика/"
-  ],
-  "readableLineLength": true
+  "newFileFolderPath": "/",
+  "userIgnoreFilters": null,
+  "readableLineLength": true,
+  "vimMode": true
 }
