@@ -112,17 +112,15 @@
             "id": "fa9413bff94d1516",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 13941.416996135165,
-                  "y": -728.0388167357407,
-                  "zoom": -0.4
-                }
+                "file": "List.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "List"
             }
           }
         ],
@@ -213,10 +211,10 @@
   },
   "active": "fa9413bff94d1516",
   "lastOpenFiles": [
+    "Unity Roadmap.canvas",
     "HashSet.md",
     "List.md",
     "Конкатенация строк.md",
-    "Unity Roadmap.canvas",
     "Модификаторы доступа.md",
     "Интерполяция строк.md",
     "Рекурсия.md",
@@ -242,7 +240,6 @@
     "Тернарный оператор.md",
     "Модификатор доступа new.md",
     "Интерфейс в СSharp.md",
-    "Повороты в 2D.md",
     "1. IT/Unity",
     "Untitled.canvas",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
