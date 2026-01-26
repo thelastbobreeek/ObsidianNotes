@@ -137,9 +137,24 @@
               "icon": "lucide-file",
               "title": "Повороты в 2D"
             }
+          },
+          {
+            "id": "999b99ac9efca333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Veni vidi vici.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Veni vidi vici"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -224,8 +239,10 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "af5a6fee452dc09b",
+  "active": "999b99ac9efca333",
   "lastOpenFiles": [
+    "Повороты в 2D.md",
+    "Veni vidi vici.md",
     "Требования к продуктивности.md",
     "Игра.md",
     "Материалы для просмотра.md",
@@ -254,8 +271,6 @@
     "Явное и неявное приведение типов.md",
     "Унарные и бинарные операции.md",
     "Тернарный оператор.md",
-    "Модификатор доступа new.md",
-    "Интерфейс в СSharp.md",
     "1. IT/Unity",
     "Untitled.canvas",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
