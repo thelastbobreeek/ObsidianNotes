@@ -49,13 +49,11 @@
 		{"id":"e2f969171e73b130","type":"text","text":"Параметры","x":9712,"y":-580,"width":177,"height":50},
 		{"id":"e9c8888b580c5cb4","type":"text","text":"Возвращаемое значение","x":9963,"y":-580,"width":321,"height":54},
 		{"id":"d8049a9906b29eb1","type":"text","text":"Коллекции","x":11460,"y":-135,"width":166,"height":50},
-		{"id":"893c3dd14274c818","type":"text","text":"List","x":10865,"y":79,"width":110,"height":50},
+		{"id":"893c3dd14274c818","type":"text","text":"[[List]]","x":10865,"y":79,"width":110,"height":50},
 		{"id":"eff2da529163a6ed","type":"text","text":"Count","x":10600,"y":269,"width":120,"height":51},
 		{"id":"c9158ec61f03b33e","type":"text","text":"Capacity","x":10829,"y":268,"width":182,"height":52},
-		{"id":"8611289831fb6977","type":"text","text":"Dictionary","x":11120,"y":79,"width":150,"height":50,"color":"1"},
-		{"id":"918d99e78b5ae650","type":"text","text":"Queue","x":11402,"y":79,"width":116,"height":50,"color":"1"},
-		{"id":"67edb5352821a00e","type":"text","text":"[[HashSet]]","x":11626,"y":79,"width":141,"height":50},
-		{"id":"d64d9ac55b554e91","type":"text","text":"Stack","x":11860,"y":79,"width":121,"height":50,"color":"1"},
+		{"id":"8611289831fb6977","type":"text","text":"[[Dictionary]]","x":11120,"y":79,"width":150,"height":50},
+		{"id":"918d99e78b5ae650","type":"text","text":"[[Queue]]","x":11402,"y":79,"width":116,"height":50,"color":"1"},
 		{"id":"9aff5b34fe58bf2a","type":"text","text":"Классы","x":12920,"y":-135,"width":142,"height":50},
 		{"id":"5b9e5b874260b9d0","type":"text","text":"Сначала","x":12920,"y":-380,"width":142,"height":50},
 		{"id":"21197267bb45faea","type":"text","text":"Терминология","x":12010,"y":-752,"width":210,"height":52},
@@ -588,7 +586,9 @@
 		{"id":"0fdaf33167b08bb5","type":"text","text":"тип bool","x":3259,"y":65,"width":149,"height":50},
 		{"id":"c3ab3858bfc18d76","type":"text","text":"Условия","x":4192,"y":-130,"width":140,"height":50},
 		{"id":"35664d5fce71602e","type":"text","text":"Парсинг ввода пользователя\nint.Parse(\"\"), float.Parse(\"\") и тд","x":3476,"y":-367,"width":380,"height":84},
-		{"id":"b1bb77b3a27a7556","type":"text","text":"Логические операции","x":4507,"y":5,"width":276,"height":50}
+		{"id":"b1bb77b3a27a7556","type":"text","text":"Логические операции","x":4507,"y":5,"width":276,"height":50},
+		{"id":"d64d9ac55b554e91","type":"text","text":"Stack","x":11660,"y":79,"width":121,"height":50,"color":"1"},
+		{"id":"67edb5352821a00e","type":"text","text":"[[HashSet]]","x":11869,"y":79,"width":141,"height":50}
 	],
 	"edges":[
 		{"id":"ca71b8edc9cdf871","fromNode":"c8bc5ba077a95d0b","fromSide":"bottom","toNode":"9b8094246b8b36da","toSide":"top"},

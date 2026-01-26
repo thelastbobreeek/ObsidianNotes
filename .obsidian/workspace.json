@@ -144,17 +144,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veni vidi vici.md",
-                "mode": "preview",
+                "file": "Queue.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Veni vidi vici"
+              "title": "Queue"
+            }
+          },
+          {
+            "id": "03c57396426cc9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Queue"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -239,18 +254,20 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "999b99ac9efca333",
+  "active": "03c57396426cc9b8",
   "lastOpenFiles": [
-    "Повороты в 2D.md",
+    "Аллокация.md",
+    "Queue.md",
+    "Dictionary.md",
+    "Unity Roadmap.canvas",
     "Veni vidi vici.md",
+    "Повороты в 2D.md",
     "Требования к продуктивности.md",
     "Игра.md",
     "Материалы для просмотра.md",
     "Рекурсия.md",
     "HashSet.md",
     "List.md",
-    "Dictionary.md",
-    "Unity Roadmap.canvas",
     "Конкатенация строк.md",
     "Модификаторы доступа.md",
     "Интерполяция строк.md",
@@ -269,8 +286,6 @@
     "0. Файлы",
     "Ссылочные и значимые типы.md",
     "Явное и неявное приведение типов.md",
-    "Унарные и бинарные операции.md",
-    "Тернарный оператор.md",
     "1. IT/Unity",
     "Untitled.canvas",
     "0. Files/2. Attachments/Pasted image 20251220155952.png",
