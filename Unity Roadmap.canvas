@@ -587,7 +587,7 @@
 		{"id":"c3ab3858bfc18d76","type":"text","text":"Условия","x":4192,"y":-130,"width":140,"height":50},
 		{"id":"35664d5fce71602e","type":"text","text":"Парсинг ввода пользователя\nint.Parse(\"\"), float.Parse(\"\") и тд","x":3476,"y":-367,"width":380,"height":84},
 		{"id":"b1bb77b3a27a7556","type":"text","text":"Логические операции","x":4507,"y":5,"width":276,"height":50},
-		{"id":"d64d9ac55b554e91","type":"text","text":"[[Stack]]","x":11660,"y":79,"width":121,"height":50,"color":"1"},
+		{"id":"d64d9ac55b554e91","type":"text","text":"[[Stack]]","x":11660,"y":79,"width":121,"height":50},
 		{"id":"67edb5352821a00e","type":"text","text":"[[HashSet]]","x":11869,"y":79,"width":141,"height":50}
 	],
 	"edges":[
