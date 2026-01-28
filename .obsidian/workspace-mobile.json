@@ -28,17 +28,15 @@
             "id": "5a97a269ebbcdb11",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 2676.0096194016587,
-                  "y": 2633.8131905290397,
-                  "zoom": -1.6276822520026915
-                }
+                "file": "Тернарный оператор.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Тернарный оператор"
             }
           }
         ],
@@ -200,6 +198,13 @@
   },
   "active": "5a97a269ebbcdb11",
   "lastOpenFiles": [
+    "Рекурсия.md",
+    "Полиморфизм.md",
+    "Игра.md",
+    "Модификаторы доступа.md",
+    "Модификатор доступа new.md",
+    "Veni vidi vici.md",
+    "Unity Roadmap.canvas",
     "Stack.md",
     "Абстрактный класс.md",
     "Причины купить Macbook.md",
@@ -207,7 +212,6 @@
     "/Unity Roadmap.canvas",
     "/Stack.md",
     "Он был любим....md",
-    "Veni vidi vici.md",
     "Аллокация.md",
     "Queue.md",
     "Dictionary.md",
@@ -220,14 +224,8 @@
     "/HashSet.md",
     "/Dictionary.md",
     "Требования к продуктивности.md",
-    "Рекурсия.md",
-    "Unity Roadmap.canvas",
     "HashSet.md",
     "/Материалы для просмотра.md",
-    "Framework.md",
-    "Явное и неявное приведение типов.md",
-    "Унарные и бинарные операции.md",
-    "Тернарный оператор.md",
     "0. Unity Roadmap.canvas",
     "1. IT/Unity Roadmap.canvas",
     "/0. Unity Roadmap.canvas",
