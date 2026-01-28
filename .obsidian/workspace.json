@@ -174,13 +174,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игра.md",
+                "file": "Причины купить Macbook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Игра"
+              "title": "Причины купить Macbook"
             }
           }
         ],
@@ -271,9 +271,11 @@
   },
   "active": "48afc470422e8988",
   "lastOpenFiles": [
-    "Причины купить Macbook.md",
+    "Свойства.md",
     "Stack.md",
     "Unity Roadmap.canvas",
+    "Игра.md",
+    "Причины купить Macbook.md",
     "Явное и неявное приведение типов.md",
     "Queue.md",
     "Аллокация.md",
@@ -281,7 +283,6 @@
     "Veni vidi vici.md",
     "Повороты в 2D.md",
     "Требования к продуктивности.md",
-    "Игра.md",
     "Материалы для просмотра.md",
     "Рекурсия.md",
     "HashSet.md",
@@ -296,7 +297,6 @@
     "Mono.md",
     "Framework.md",
     "Абстрактный класс.md",
-    "IL2CPP.md",
     "0. Файлы/1. Изображения",
     "0. Файлы/0. Входящие",
     "0. Файлы",

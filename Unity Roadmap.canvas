@@ -76,7 +76,7 @@
 		{"id":"09d0e36e23c17104","type":"text","text":"Защита данных","x":12448,"y":300,"width":212,"height":52},
 		{"id":"c82d282c79290896","type":"text","text":"Как могут помочь методы?","x":12494,"y":520,"width":332,"height":50},
 		{"id":"8ddf910fe9bafc16","type":"text","text":"Зачем private","x":12120,"y":520,"width":189,"height":50},
-		{"id":"8e5a0be5f9574dcb","type":"text","text":"Свойства","x":13180,"y":300,"width":152,"height":52,"color":"1"},
+		{"id":"8e5a0be5f9574dcb","type":"text","text":"[[Свойства]]","x":13180,"y":300,"width":152,"height":52,"color":"1"},
 		{"id":"12a2b1a5f645e12f","type":"text","text":"get/set","x":12875,"y":519,"width":116,"height":53,"color":"1"},
 		{"id":"541991ba51898c93","type":"text","text":"Автосвойства","x":13047,"y":514,"width":250,"height":57,"color":"1"},
 		{"id":"c5e42da27fd9536a","type":"text","text":"Модификаторы доступа применимы для get/set блокам","x":13360,"y":509,"width":400,"height":91,"color":"1"},
