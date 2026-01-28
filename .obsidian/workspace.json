@@ -174,13 +174,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack.md",
-                "mode": "preview",
+                "file": "Игра.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stack"
+              "title": "Игра"
             }
           }
         ],
@@ -271,11 +271,11 @@
   },
   "active": "48afc470422e8988",
   "lastOpenFiles": [
-    "Unity Roadmap.canvas",
+    "Причины купить Macbook.md",
     "Stack.md",
+    "Unity Roadmap.canvas",
     "Явное и неявное приведение типов.md",
     "Queue.md",
-    "Причины купить Macbook.md",
     "Аллокация.md",
     "Dictionary.md",
     "Veni vidi vici.md",
