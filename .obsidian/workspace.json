@@ -189,13 +189,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Игра.md",
+                "file": "Свойства.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Игра"
+              "title": "Свойства"
             }
           }
         ],
@@ -286,11 +286,12 @@
   },
   "active": "c623f414483ec56d",
   "lastOpenFiles": [
-    "Причины купить Macbook.md",
+    "Унарные и бинарные операции.md",
     "Свойства.md",
+    "Игра.md",
+    "Причины купить Macbook.md",
     "Stack.md",
     "Unity Roadmap.canvas",
-    "Игра.md",
     "Явное и неявное приведение типов.md",
     "Queue.md",
     "Аллокация.md",
