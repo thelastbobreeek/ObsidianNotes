@@ -197,9 +197,19 @@
               "icon": "lucide-file",
               "title": "Свойства"
             }
+          },
+          {
+            "id": "20ed87793b2a04b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -284,10 +294,11 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "c623f414483ec56d",
+  "active": "20ed87793b2a04b9",
   "lastOpenFiles": [
-    "Унарные и бинарные операции.md",
     "Свойства.md",
+    "Без названия.md",
+    "Унарные и бинарные операции.md",
     "Игра.md",
     "Причины купить Macbook.md",
     "Stack.md",
@@ -312,7 +323,6 @@
     "Всему приходит конец.md",
     "Mono.md",
     "Framework.md",
-    "Абстрактный класс.md",
     "0. Файлы/1. Изображения",
     "0. Файлы/0. Входящие",
     "0. Файлы",
