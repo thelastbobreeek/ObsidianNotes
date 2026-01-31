@@ -38,24 +38,9 @@
               "icon": "lucide-file",
               "title": "Свойства"
             }
-          },
-          {
-            "id": "e611e7950a1c857f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Новая игра.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Новая игра"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +196,12 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "e611e7950a1c857f",
+  "active": "5a97a269ebbcdb11",
   "lastOpenFiles": [
-    "Свойства.md",
     "Новая игра.md",
+    "Без названия.md",
+    "/Без названия.md",
+    "Свойства.md",
     "Причины купить Macbook.md",
     "/Свойства.md",
     "/Причины купить Macbook.md",
@@ -239,8 +226,6 @@
     "Dictionary.md",
     "/Queue.md",
     "/Аллокация.md",
-    "/Veni vidi vici.md",
-    "List.md",
     "0. Unity Roadmap.canvas",
     "1. IT/Unity Roadmap.canvas",
     "/0. Unity Roadmap.canvas",
