@@ -5,12 +5,12 @@
     "Dashboard (главная страница, скрытие свойств и названия)",
     "Window-contols (скрытие иконок, которые закрывают-сворачивают окно)",
     "Stretch (принудительное растягивание в режиме просмотра)",
-    "Lines (более жирные линии ---)",
     "Centered H1 (центрирование большого оглавления)",
     "Cards (карточки вместо таблиц)",
     "tight-spacint",
     "vim-cursor",
-    "highlight-selection"
+    "highlight-selection",
+    "Lines (более жирные линии ---)"
   ],
   "baseFontSizeAction": true,
   "showViewHeader": true,
