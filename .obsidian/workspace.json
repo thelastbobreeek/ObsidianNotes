@@ -204,13 +204,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Причины купить Macbook.md",
-                "mode": "preview",
+                "file": "Рекурсия.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Причины купить Macbook"
+              "title": "Рекурсия"
             }
           }
         ],
@@ -301,14 +301,16 @@
   },
   "active": "20ed87793b2a04b9",
   "lastOpenFiles": [
+    "List.md",
+    "HashSet.md",
+    "Stack.md",
+    "Идеи для игр.md",
+    "Причины купить Macbook.md",
     "Файлы",
     "Файлы/Pasted image 20260131112942.png",
-    "Причины купить Macbook.md",
     "Свойства.md",
-    "Идеи для игр.md",
     "Унарные и бинарные операции.md",
     "Игра.md",
-    "Stack.md",
     "Unity Roadmap.canvas",
     "Явное и неявное приведение типов.md",
     "Queue.md",
@@ -319,8 +321,6 @@
     "Требования к продуктивности.md",
     "Материалы для просмотра.md",
     "Рекурсия.md",
-    "HashSet.md",
-    "List.md",
     "Конкатенация строк.md",
     "Модификаторы доступа.md",
     "Интерполяция строк.md",
@@ -345,7 +345,6 @@
     "2. Литература/Цитаты",
     "2. Литература",
     "3. Социология",
-    "3. Resources/Литература/Цитаты",
     "0. Files/2. Attachments/Pasted image 20251130184949.png",
     "_system files (системные файлы)/Cashe (кэш)/Pasted image 20251130180810.png",
     "Статистика за последние 30 дней.canvas",

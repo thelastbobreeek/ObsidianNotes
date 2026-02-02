@@ -1,6 +1,6 @@
 {
   "baseFontSize": 23,
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "enabledCssSnippets": [
     "Dashboard (главная страница, скрытие свойств и названия)",
     "Window-contols (скрытие иконок, которые закрывают-сворачивают окно)",
@@ -9,7 +9,8 @@
     "Centered H1 (центрирование большого оглавления)",
     "Cards (карточки вместо таблиц)",
     "tight-spacint",
-    "vim-cursor"
+    "vim-cursor",
+    "highlight-selection"
   ],
   "baseFontSizeAction": true,
   "showViewHeader": true,
