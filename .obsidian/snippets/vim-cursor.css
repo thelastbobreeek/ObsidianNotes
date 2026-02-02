@@ -1,9 +1,11 @@
-/* NORMAL MODE */
+/* ===== VIM MODE CURSOR (OBSIDIAN PURPLE) ===== */
+
+/* NORMAL / VISUAL MODE — блочный курсор */
 .cm-fat-cursor {
-  background-color: #ff5555 !important;
+  background-color: var(--interactive-accent) !important;
 }
 
-/* INSERT MODE */
+/* INSERT MODE — вертикальный курсор */
 .cm-cursor {
-  border-left: 2px solid #50fa7b !important;
+  border-left: 2px solid var(--interactive-accent) !important;
 }

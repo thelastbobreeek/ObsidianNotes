@@ -4,11 +4,6 @@
 set langmap=ФИСВУАПРШОЛДЬТЩЗЙКЫЕГМЦЧНЯ;ABCDEFGHIJKLMNOPQRSTUVWXYZ,фисвуапршолдьтщзйкыегмцчня;abcdefghijklmnopqrstuvwxyz,ё;`,Ё;~
 
 " ===========================
-" Быстрый выход из insert
-" ===========================
-inoremap jk <Esc>
-
-" ===========================
 " Сохранение (Space + w)
 " ===========================
 nnoremap <Space>w :write<CR>
