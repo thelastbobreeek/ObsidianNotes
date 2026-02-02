@@ -202,15 +202,17 @@
             "id": "20ed87793b2a04b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Как делать из софт-скиллов деньги.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 13385.130810175013,
+                  "y": 435.0076207883208,
+                  "zoom": -0.3999999999999997
+                }
               },
-              "icon": "lucide-file",
-              "title": "Как делать из софт-скиллов деньги"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
             }
           }
         ],
@@ -255,21 +257,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6aa34c988e2ea4e9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Стэк и куча.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Стэк и куча"
-            }
-          },
-          {
             "id": "e93dc4d0707ed60a",
             "type": "leaf",
             "state": {
@@ -279,12 +266,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,16 +287,18 @@
   },
   "active": "20ed87793b2a04b9",
   "lastOpenFiles": [
+    "Ссылочные и значимые типы.md",
+    "Причины купить Macbook.md",
+    "Свойства.md",
+    "Как делать из софт-скиллов деньги.md",
     "Абстракция.md",
     "Рекурсия.md",
     "List.md",
     "HashSet.md",
     "Stack.md",
     "Идеи для игр.md",
-    "Причины купить Macbook.md",
     "Файлы",
     "Файлы/Pasted image 20260131112942.png",
-    "Свойства.md",
     "Унарные и бинарные операции.md",
     "Игра.md",
     "Unity Roadmap.canvas",
@@ -328,8 +316,6 @@
     "Стэк и куча.md",
     "CSharp.md",
     "Unity.md",
-    "Всему приходит конец.md",
-    "Mono.md",
     "0. Файлы/1. Изображения",
     "0. Файлы/0. Входящие",
     "0. Файлы",
