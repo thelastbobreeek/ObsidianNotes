@@ -1,9 +1,26 @@
-/* ===== ВЫДЕЛЕНИЕ В РЕДАКТОРЕ (Live Preview / Source) ===== */
-.cm-editor .cm-selectionBackground {
-  background-color: rgba(255, 235, 59, 0.7) !important;
+/* --- Желтый "маркер" для выделенного текста в Obsidian --- */
+
+/* Для обычного текста в превью/чтении */
+::selection {
+  background: rgba(255, 235, 59, 0.6); /* мягкий желтый */
+  color: inherit;
 }
 
-/* ===== ВЫДЕЛЕНИЕ В READ VIEW ===== */
-.markdown-preview-view ::selection {
-  background: rgba(255, 235, 59, 0.7);
+/* Для markdown preview / read view (добавочная точность) */
+.markdown-preview-view ::selection,
+.markdown-source-view ::selection,
+.workspace-leaf-content ::selection {
+  background: rgba(255, 235, 59, 0.6);
+  color: inherit;
 }
+
+/* Для редактора (CodeMirror 6 — Live Preview / Source) */
+.cm-editor .cm-selectionBackground,
+.cm-editor .cm-selectionLayer .cm-selectionBackground {
+  background-color: rgba(255, 235, 59, 0.55) !important;
+  color: inherit !important;
+  border-radius: 3px; /* чуть скруглить, выглядит приятнее */
+}
+
+/* Иногда полезно убрать подсветку строки (если мешает) */
+/* .cm-editor .cm-activeLine { background-color: transparent !important; } */
