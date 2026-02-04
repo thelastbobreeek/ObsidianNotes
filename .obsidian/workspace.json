@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Крымская война.md",
+                "file": "Свойства.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Крымская война"
+              "title": "Свойства"
             }
           }
         ]
@@ -108,19 +108,19 @@
   },
   "active": "701b4691686895f0",
   "lastOpenFiles": [
+    "Причины купить Macbook.md",
+    "Ссылочные и значимые типы.md",
+    "Крымская война.md",
     "Stack.md",
     "Аллокация.md",
-    "Крымская война.md",
     "Veni vidi vici.md",
     "Свойства.md",
-    "Причины купить Macbook.md",
     "Queue.md",
     "Повороты в 2D.md",
     "List.md",
     "HashSet.md",
     "Рекурсия.md",
     "Unity Roadmap.canvas",
-    "Ссылочные и значимые типы.md",
     "Как делать из софт-скиллов деньги.md",
     "Абстракция.md",
     "Идеи для игр.md",
