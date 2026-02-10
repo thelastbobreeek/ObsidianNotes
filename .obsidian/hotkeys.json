@@ -52,13 +52,13 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "editor:insert-wikilink": [
+  "editor:toggle-checklist-status": [],
+  "editor:insert-link": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "O"
+      "key": "L"
     }
-  ],
-  "switcher:open": []
+  ]
 }
