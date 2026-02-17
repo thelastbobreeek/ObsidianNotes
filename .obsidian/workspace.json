@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Причины купить Macbook.md",
-                "mode": "preview",
+                "file": "Класс.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Причины купить Macbook"
+              "title": "Класс"
             }
           }
         ],
@@ -126,6 +126,9 @@
   },
   "active": "774043acc8c74df5",
   "lastOpenFiles": [
+    "Unity Roadmap.canvas",
+    "Класс.md",
+    "Причины купить Macbook.md",
     "Конструктор.md",
     "Повороты в 2D.md",
     "Коллекции.md",
@@ -139,8 +142,6 @@
     "Материалы для просмотра.md",
     "И ты узнаешь что я господь....md",
     "Требования к продуктивности.md",
-    "Unity Roadmap.canvas",
-    "Причины купить Macbook.md",
     "Ссылочные и значимые типы.md",
     "Stack.md",
     "Аллокация.md",
@@ -153,8 +154,6 @@
     "Файлы",
     "Файлы/Pasted image 20260131112942.png",
     "Унарные и бинарные операции.md",
-    "Явное и неявное приведение типов.md",
-    "Dictionary.md",
     "0. Файлы/1. Изображения",
     "0. Файлы/0. Входящие",
     "0. Файлы",
