@@ -53,7 +53,8 @@
   ],
   "editor:delete-paragraph": [],
   "editor:toggle-checklist-status": [],
-  "editor:insert-link": [
+  "editor:insert-link": [],
+  "editor:insert-wikilink": [
     {
       "modifiers": [
         "Mod"
