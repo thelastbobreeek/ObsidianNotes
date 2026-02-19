@@ -31,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "Класс.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -200,8 +200,9 @@
   },
   "active": "5a97a269ebbcdb11",
   "lastOpenFiles": [
-    "Сборщик мусора.md",
+    "Модификаторы доступа.md",
     "Класс.md",
+    "Сборщик мусора.md",
     "Unity Roadmap.canvas",
     "Виды кризисов.md",
     "Компилятор.md",
@@ -227,7 +228,6 @@
     "Stack.md",
     "ООП.md",
     "Абстракция.md",
-    "Абстрактный класс.md",
     "/Файлы/Pasted image 20260131112942.png",
     "Файлы/Pasted image 20260131112942.png",
     "/Файлы",
