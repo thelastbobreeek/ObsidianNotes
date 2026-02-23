@@ -94,4 +94,38 @@ if (direction.sqrMagnitude < _range * _range)
 }
 	```
 
-3. 
+3. `Normalize` и `normalized` - делают длину вектора равной 1, сохраняя направление:
+   ```cs
+   vector.Normalize();
+Vector3 normalized = vector.normalized;
+   ```
+   `Normalize()` изменяет текущий вектор.
+   `normalized` возвращает новый вектор.
+   
+   Если не нормализовать вектор, то, например, при движении будет неправильная скорость:
+   ```cs
+   Vector3 direction = target.position - transform.position;
+transform.position += direction * _speed * Time.deltaTime;
+   ``` 
+   Чем дальше цель - тем больше `direction`,
+   Чем больше `direction` - тем быстрее объект летит.
+   Это неправильно.
+   
+   Правильно нормализовать `direction` и использовать только его:
+   ```cs
+   Vector3 direction = target.position - transform.position;
+Vector3 normalizedDirection = direction.normalized;
+transform.position += normalizedDirection * _speed * Time.deltaTime;
+   ```
+   Теперь, направление сохраняется, а скорость передвижения регулируется только `_speed`.
+3. `Dot`(скалярное произведение) - считает, в какие стороны смотрят объекты относительно друг друга:
+	```cs
+	float dot = Vector3.Dot(a, b);
+	```
+	Если выдает >0 -> смотрят примерно в одну сторону
+	Если <0 -> в разные стороны
+	Если = 0 -> смотрят перпендикулярно
+	Используется для проверки:
+	- смотрит ли объект на цель
+	- угла обзора врага
+	- проверка направления удара

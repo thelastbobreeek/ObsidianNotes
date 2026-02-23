@@ -40,7 +40,7 @@
               "state": {
                 "file": "Vector3.md",
                 "mode": "preview",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -136,13 +136,13 @@
   },
   "active": "15857b38a9089add",
   "lastOpenFiles": [
+    "Крымская война.md",
+    "Класс.md",
+    "Vector3.md",
     "Конструктор.md",
     "Стагфляция.md",
     "ООП.md",
     "Модификаторы доступа.md",
-    "Класс.md",
-    "Vector3.md",
-    "Крымская война.md",
     "List.md",
     "DotNet.md",
     "Без названия.md",
