@@ -36,15 +36,17 @@
             "id": "15857b38a9089add",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Vector3.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "file": "Unity Roadmap.canvas",
+                "viewState": {
+                  "x": 4157.170925123167,
+                  "y": 1729.7200647335344,
+                  "zoom": -0.16594224126861112
+                }
               },
-              "icon": "lucide-file",
-              "title": "Vector3"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unity Roadmap"
             }
           }
         ],
@@ -136,8 +138,12 @@
   },
   "active": "15857b38a9089add",
   "lastOpenFiles": [
-    "Queue.md",
     "Vector3.md",
+    "Структура.md",
+    "IL2CPP.md",
+    "Компилятор.md",
+    "Intermediate Language.md",
+    "Queue.md",
     "Крымская война.md",
     "Класс.md",
     "Конструктор.md",
@@ -159,10 +165,6 @@
     "Игра.md",
     "Материалы для просмотра.md",
     "И ты узнаешь что я господь....md",
-    "Требования к продуктивности.md",
-    "Ссылочные и значимые типы.md",
-    "Stack.md",
-    "Аллокация.md",
     "Файлы",
     "Файлы/Pasted image 20260131112942.png",
     "0. Файлы/1. Изображения",
