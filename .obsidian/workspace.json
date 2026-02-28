@@ -36,17 +36,15 @@
             "id": "15857b38a9089add",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Unity Roadmap.canvas",
-                "viewState": {
-                  "x": 4157.170925123167,
-                  "y": 1729.7200647335344,
-                  "zoom": -0.16594224126861112
-                }
+                "file": "Национальная валюта.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unity Roadmap"
+              "icon": "lucide-file",
+              "title": "Национальная валюта"
             }
           }
         ],
@@ -136,8 +134,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "15857b38a9089add",
+  "active": "24001ef4ed6bf1cb",
   "lastOpenFiles": [
+    "Финансовый кризис.md",
+    "Национальная валюта.md",
+    "Unity Roadmap.canvas",
     "Vector3.md",
     "Структура.md",
     "IL2CPP.md",
@@ -153,9 +154,7 @@
     "List.md",
     "DotNet.md",
     "Без названия.md",
-    "Unity Roadmap.canvas",
     "Какие бывают кризисы.md",
-    "Виды кризисов.md",
     "Причины купить Macbook.md",
     "Повороты в 2D.md",
     "Коллекции.md",
@@ -164,7 +163,6 @@
     "Pasted image 20260131112942.png.md",
     "Игра.md",
     "Материалы для просмотра.md",
-    "И ты узнаешь что я господь....md",
     "Файлы",
     "Файлы/Pasted image 20260131112942.png",
     "0. Файлы/1. Изображения",
