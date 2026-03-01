@@ -46,9 +46,24 @@
               "icon": "lucide-file",
               "title": "Национальная валюта"
             }
+          },
+          {
+            "id": "a1287a77f3ea0fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Национальная валюта.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Национальная валюта"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,13 +149,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "24001ef4ed6bf1cb",
+  "active": "a1287a77f3ea0fef",
   "lastOpenFiles": [
-    "Финансовый кризис.md",
+    "Экономика.md",
     "Национальная валюта.md",
+    "Финансовый кризис.md",
+    "Стагфляция.md",
+    "Структура.md",
     "Unity Roadmap.canvas",
     "Vector3.md",
-    "Структура.md",
     "IL2CPP.md",
     "Компилятор.md",
     "Intermediate Language.md",
@@ -148,7 +165,6 @@
     "Крымская война.md",
     "Класс.md",
     "Конструктор.md",
-    "Стагфляция.md",
     "ООП.md",
     "Модификаторы доступа.md",
     "List.md",
@@ -162,7 +178,6 @@
     "Идеи для игр.md",
     "Pasted image 20260131112942.png.md",
     "Игра.md",
-    "Материалы для просмотра.md",
     "Файлы",
     "Файлы/Pasted image 20260131112942.png",
     "0. Файлы/1. Изображения",
