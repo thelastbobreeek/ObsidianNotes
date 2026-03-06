@@ -141,6 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "daily-notes:Сегодняшняя заметка": false,
       "graph:Граф": false,
       "command-palette:Открыть палитру команд": false,
