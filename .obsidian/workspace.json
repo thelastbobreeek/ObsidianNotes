@@ -148,7 +148,6 @@
       "canvas:Создать новый холст": true,
       "templates:Вставить шаблон": true,
       "bases:Создать новую базу": true,
-      "obsidian-git:Open Git source control": false,
       "improved-random-note:Open improved random note": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false
