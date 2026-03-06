@@ -119,28 +119,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e93dc4d0707ed60a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "bbc4b3adb9ec418f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Крымская война.md",
+                "file": "Альтруизм.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Крымская война"
+              "title": "Структура Альтруизм"
             }
           }
         ]
@@ -164,7 +154,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ff0cfde5fbe38308",
+  "active": "bbc4b3adb9ec418f",
   "lastOpenFiles": [
     "Энтропия.md",
     "Unity перспективен!.md",
