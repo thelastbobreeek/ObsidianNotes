@@ -68,13 +68,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Альтруизм.md",
+                "file": "Энтропия.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Альтруизм"
+              "title": "Энтропия"
             }
           }
         ],
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Альтруизм.md",
+                "file": "Энтропия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Альтруизм"
+              "title": "Структура Энтропия"
             }
           }
         ]
@@ -154,11 +154,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "bbc4b3adb9ec418f",
+  "active": "ff0cfde5fbe38308",
   "lastOpenFiles": [
+    "Альтруизм.md",
     "Энтропия.md",
     "Unity перспективен!.md",
-    "Альтруизм.md",
     "Национальная валюта.md",
     "Экономика.md",
     "Финансовый кризис.md",
